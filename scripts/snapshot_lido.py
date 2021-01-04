@@ -34,8 +34,10 @@ def main():
     up = lp_points()
     sellp = unisells_points() 
     yp = yveth_points()
-    points = merge_points([sp, hp, up, sellp, yp], exclude_holders)
+    ysp = yveth_staking_points()
+    points = merge_points([sp, hp, up, sellp, yp, ysp], exclude_holders)
     balances = compute_balances(points)
+    hr_balances = human_readable_balances(balances, sp, hp, up, sellp, yp, ysp)
     distribution = prepare_merkle_tree(balances)
     save_timestamps()
     print("recipients:", len(balances))
@@ -167,6 +169,13 @@ def load_block_timestamps_cache():
         print("load from cache", path)   
         return json.load(path.open())
 
+@cached("snapshot/lido-05a-yveth-staking.json")
+def yveth_staking_points():
+    points = yveth_transfers_to_staking(yveth_transfer_events(), 
+                        steth_transfer_events(),
+                        lido_deploy, snapshot_block)
+    return points
+
 block_timestamps_cache = load_block_timestamps_cache()
 
 def save_timestamps():
@@ -198,6 +207,34 @@ def compute_balances(points_per_address):
         balances[address] = addr_ldo
         left_ldo -= addr_ldo
     return balances
+
+@cached("snapshot/lido-07a-human-readable-balances.json")
+def human_readable_balances(balances, sp, hp, up, sellp, yp, ysp):
+    hr_balances = {}
+    contributions = {
+        "staking": sp,
+        "holding": hp,
+        "lp on uniswap": up,
+        "selling on uniswap": sellp,
+        "yvsteth  holding": yp,
+        "yvsteth staking": ysp
+    }
+    for holder in balances.keys():
+        holder_contribuitions = {
+            key: value.get(holder, 0) for
+            key, value in contributions.items()
+        }
+        total_holder_contrubutions = sum(holder_contribuitions.values())
+        annotated_contributions = {
+            key: round(100*value/total_holder_contrubutions, 2)
+            for key, value in holder_contribuitions.items()
+        }
+        hr_balances[holder] = { "balance": round(balances[holder]/10**18, 2),
+            "contributions": annotated_contributions
+        }
+    return hr_balances
+
+
 
 
 @cached("snapshot/lido-08-merkle.json")
@@ -236,6 +273,24 @@ def transfers_to_stakes(contract, deploy_block, snapshot_block):
 
     return dict(stakes.most_common())
 
+
+def yveth_transfers_to_staking(yveth_transfer_events, steth_transfer_events, 
+                        deploy_block, snapshot_block):
+    points = dict()
+    yv_transfer_logs = tqdm(transfer_events_between(yveth_transfer_events, deploy_block, snapshot_block))
+
+    for yv_log in yv_transfer_logs:
+        (src, dst, amount, block) =  (yv_log["args"]["src"], yv_log["args"]["dst"],
+                                        yv_log["args"]["wad"], yv_log["blockNumber"])                    
+        if src == ZERO_ADDRESS:
+            tx_steth_transfers = filter(lambda log: log["transactionHash"] == yv_log["transactionHash"],
+             steth_transfer_events)
+            for st_log in tx_steth_transfers:
+                if st_log["args"]["src"] == ZERO_ADDRESS:
+                    points.setdefault(dst, 0)
+                    points[dst] += amount
+    return points
+        
 
 
 def seconds_between_blocks(first, second):
