@@ -1,0 +1,5204 @@
+[
+  {
+    "args": {
+      "sender": "0xb89Fa54d5D7BCb78e121f9fA85Cb47242355c68E",
+      "to": "0xb89Fa54d5D7BCb78e121f9fA85Cb47242355c68E",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 906610893880149131,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 144,
+    "transactionIndex": 131,
+    "transactionHash": "0xd0367e75296d219536017c3ed9d9cfedae8796ccff4f3280999f8ab65fa1d7cd",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1efcf3b3d281271a366eed9ed335124692f02ba8f8a589f6f78aca189430704f",
+    "blockNumber": 11480832,
+    "from": "0x697aBc2B7885556b5c7a3d2831b9d0a6e2E4F86b"
+  },
+  {
+    "args": {
+      "sender": "0xb89Fa54d5D7BCb78e121f9fA85Cb47242355c68E",
+      "to": "0xb89Fa54d5D7BCb78e121f9fA85Cb47242355c68E",
+      "amount0In": 906610893880149131,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 994550668459521908
+    },
+    "event": "Swap",
+    "logIndex": 61,
+    "transactionIndex": 73,
+    "transactionHash": "0x76dfd69c7cbcd60a1d55afc01003e73ac8ecc9c0ccf4913cbed83883f0c38bc8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8fda6ccc78ccefdceceafd6ffb03af6af4457d27b70fe78aefd9e222298314f8",
+    "blockNumber": 11481027,
+    "from": "0x9b9843b8164B50Be80d33892e3749634Ec5a94d1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 984658347929520280
+    },
+    "event": "Swap",
+    "logIndex": 283,
+    "transactionIndex": 234,
+    "transactionHash": "0x366b995afe0bbd02a0333a01ef5161c27f1699ea0d913deb2b974d50f14abd11",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc6605738292fdaa5e9c2fcf35c0c471fa52be123f4e7cfbf771e631433492c32",
+    "blockNumber": 11484730,
+    "from": "0x2e908E9ba65d4d87a152FA817Fd379a57eA7ef8C"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x31F644E2Dd5D74F5c8d6d9DE89dd517474d51800",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 1010235895801981360,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 311,
+    "transactionIndex": 129,
+    "transactionHash": "0x9632bad6a5024b2f9884db9509ee74430f4ba7be4b8c4fe015605ed6d62fcb7f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x0bb45fdf6d002005329de641f48be3c0f78e60b5c1312adc587bf290d0febd39",
+    "blockNumber": 11486639,
+    "from": "0x31F644E2Dd5D74F5c8d6d9DE89dd517474d51800"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 205000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 203668929263722884
+    },
+    "event": "Swap",
+    "logIndex": 175,
+    "transactionIndex": 88,
+    "transactionHash": "0x8f040ff5f20ee661ad4e6f7671e25b8d1859ff740bb26e63e814e10d38ee898e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa51bdf3c4f39ba43b3f2c60728df2779ca1b4eef337bc75c8aaab41f83caee78",
+    "blockNumber": 11487609,
+    "from": "0x7fA5c668584300148d997dDA40D25E28EeBCF28f"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 202414490482814700,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 200069582506733505
+    },
+    "event": "Swap",
+    "logIndex": 258,
+    "transactionIndex": 214,
+    "transactionHash": "0x98f82ff6931c8417b7ebdbe67712b2c4249ec4a8298edb12d976d4f34488ab10",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdbe9474cac1964af53d036e372f1bdddcd3eb58cc1647d6ae0b5db58386e164b",
+    "blockNumber": 11489026,
+    "from": "0x74Ab5D0CcDB5A8b8BE357bF395F121E5BcAeB86f"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 974367562416640824
+    },
+    "event": "Swap",
+    "logIndex": 66,
+    "transactionIndex": 42,
+    "transactionHash": "0xcb6c0e7cc709000293641577c7053c4aeb7eb906a12f8801ca4dd1c02698fbfb",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe7210c70a666d1f6fb39ac1e0de55146717a2f2ff2e24440ac4438bb10f683c2",
+    "blockNumber": 11489797,
+    "from": "0xefb50AE41Bc8792C55041b32C02e9Caf3f393A74"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 0,
+      "amount1In": 1786994691913404605,
+      "amount0Out": 1808712699160677813,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 335,
+    "transactionIndex": 121,
+    "transactionHash": "0x2dd2c33ed9463a7fee2d165950f41fdede23e08876a26c3692b1d4a8d335d618",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdfea0939507cdaac9ed4bffe29e5a811ef0fd4919c724899a687c2ffbd28e7a9",
+    "blockNumber": 11493095,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 1900000000000000000,
+      "amount0Out": 1846950475324659212,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 102,
+    "transactionIndex": 48,
+    "transactionHash": "0xc035c4893955af281ef1fa9b7579e48c29ea93cba5692b6ab8ec08b1dddee976",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x398a50c3e60850015b608a34904964d256e6d8796daa7aba44a4625f6645a671",
+    "blockNumber": 11493099,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 1808712699160677812,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1850521383571676781
+    },
+    "event": "Swap",
+    "logIndex": 86,
+    "transactionIndex": 106,
+    "transactionHash": "0xa23b4ccc2f9bc5877a0acf2b26567f83f8418f62244e84400aacff71925fd279",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x4d0ea03eab42b717b2d8d4c820f22681aa9861858ae1e37aab9bc9c47a4d1b3b",
+    "blockNumber": 11493101,
+    "from": "0x37556832212453D9BF5247De232f5Fd011ed6CDa"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1483977463031409649
+    },
+    "event": "Swap",
+    "logIndex": 160,
+    "transactionIndex": 73,
+    "transactionHash": "0x66924665365f54a31782fa637e0d56f78bb2c0eb612c4d0874d2a8a024c93777",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd1be61b4272325194528d6e370e0fe7753bc04fcba6de5575f39a69267b3155b",
+    "blockNumber": 11493311,
+    "from": "0xaE86583bd7963433bcf2e59971fe2F6fB0cAFb6D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1313363466163671300,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1267151474749895547
+    },
+    "event": "Swap",
+    "logIndex": 289,
+    "transactionIndex": 179,
+    "transactionHash": "0x790bbc3ee7c5c4c93a8348ca3b46fe5aa90734b605d623db58cafe4bd85b5361",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb73b442403deb5d4009798460650137f61ed96861ee964f9f6c7b0fe7d250e96",
+    "blockNumber": 11494237,
+    "from": "0x6457bE605Bedac02E8CBB9b9fF7Da5f176ccCd2B"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2074412740975340540,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1942824638192344988
+    },
+    "event": "Swap",
+    "logIndex": 278,
+    "transactionIndex": 222,
+    "transactionHash": "0x4647ead65c39f23446b1c145137501937fc6d3907fe10b2a627a10fdb5be0cef",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xaaac08e6d2342fc97440140c4009fb1a1c14b01991c7810a21324ece9e251573",
+    "blockNumber": 11495062,
+    "from": "0xd46E3aa949A76463F720fF29d5a58d8A936dB8af"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "amount0In": 6138956891265958635,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 5404963530411081719
+    },
+    "event": "Swap",
+    "logIndex": 83,
+    "transactionIndex": 100,
+    "transactionHash": "0x6a648050fa55f9fd20d6e830e87d87e8fc676c122d416de26d0be13f63571be2",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x48a5c40670e9a36afbdf47fae15d5065f70ecc3fbc2ce8ba39580c5a0f8bc426",
+    "blockNumber": 11496332,
+    "from": "0xfE82881F82803f97b969De64a137dB57c5BCb0bB"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 5664513108441312370,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 190,
+    "transactionIndex": 150,
+    "transactionHash": "0xf6d8caaa832e1c521391ed3fd618c8402bcd919e38bf3c05a45ef3eea9fade50",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2cb3c0256bd0dd6d340f548ede762584d377843b30d3b2627fa000c673b5722b",
+    "blockNumber": 11496551,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 4000000000000000000,
+      "amount0Out": 4218417300683668270,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 5,
+    "transactionIndex": 1,
+    "transactionHash": "0x16066e7cf22ccddc8993689f2696d12785a16411f3b476952cea1de9e32868ff",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x4ae8d235419164146a7ee5244ac4db693dcdba6c85396175065c5ab7fbcb8028",
+    "blockNumber": 11496617,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2499999999999999999,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2386515127375995992
+    },
+    "event": "Swap",
+    "logIndex": 251,
+    "transactionIndex": 185,
+    "transactionHash": "0x75b90aaf6091d68e8bc22eedade76d5785198739373715f89373a69952bed82c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xca57b84e16a053ddabf8bcf041a8ce02a653a5bc8cf5f6bc64810d959fc4eb20",
+    "blockNumber": 11496644,
+    "from": "0x12Ba829f00bF9d676aa15531f848a42e3838E357"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 3200000000000000000,
+      "amount0Out": 3311799446036502376,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 105,
+    "transactionIndex": 67,
+    "transactionHash": "0xc8064db6194d5b864f98bc00b0594e17801645f2f687cac4c0216bffb774b43f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x4953cf8eef13d551b6e4aaf138552552a4eb8a474e60fcbec6ebe761c4939aa9",
+    "blockNumber": 11496707,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 100000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 98378601158121868
+    },
+    "event": "Swap",
+    "logIndex": 147,
+    "transactionIndex": 64,
+    "transactionHash": "0xdde37f035d9110dc00c0b23d32989ef6385a4575ddd50f1434355035322e2d87",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc9c0b8d828558b4b470a9d5bd3b653ffb228af9487b4c0f33edcf6af27987cf4",
+    "blockNumber": 11497594,
+    "from": "0x372f9caF2850D56eA40bEdB93900fA389F629Ced"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 8000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 7418246577515057247
+    },
+    "event": "Swap",
+    "logIndex": 191,
+    "transactionIndex": 77,
+    "transactionHash": "0xf66cba6028bfe1b4060212ee39517c35dbb2cf062f2fb09bbbf78f9a74d52d12",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8b0a20bbcb11f7e0d37bf66ccdff47dd24e8cf1d28afbc13313c9efdaae18f5e",
+    "blockNumber": 11497930,
+    "from": "0x372f9caF2850D56eA40bEdB93900fA389F629Ced"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 3090000000000000000,
+      "amount0Out": 3426577239515256991,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 185,
+    "transactionIndex": 132,
+    "transactionHash": "0xf65165880c734f6714556ec4daac5c253f88e977d853cd1fc8ede5b9262329cc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9febef6eea576a1e89d8f440e39d675c2748f2434b80cb944215a821c4d17463",
+    "blockNumber": 11497937,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3d6eecCD5780f7828A5b373768008D63133cDCc7",
+      "amount0In": 0,
+      "amount1In": 3236625498108113188,
+      "amount0Out": 3414331067198638760,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 197,
+    "transactionIndex": 137,
+    "transactionHash": "0x5b6575a6b6af4f962d4a0da319c995db38b30992bcfaf4a16a0f1886624c1cb9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9febef6eea576a1e89d8f440e39d675c2748f2434b80cb944215a821c4d17463",
+    "blockNumber": 11497937,
+    "from": "0x3d6eecCD5780f7828A5b373768008D63133cDCc7"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 3426577239515256990,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3228969613040571379
+    },
+    "event": "Swap",
+    "logIndex": 201,
+    "transactionIndex": 138,
+    "transactionHash": "0xb3726c9be84a11cd3bd729238b242dadc19094f49320ced97150c89a6ce5aacd",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9febef6eea576a1e89d8f440e39d675c2748f2434b80cb944215a821c4d17463",
+    "blockNumber": 11497937,
+    "from": "0xb27179Fb6d0412F0EC9873Baf26DAe3457c5494a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 5204130092880034084,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 7,
+    "transactionIndex": 4,
+    "transactionHash": "0x3255add8264be38a94be814a30a11f81419a17119e47ce0c5c936718cdbfb6fd",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x0617ff12e672eb98d9f18152414a5579396c0ee9b5ca56da2b2b8373ae351491",
+    "blockNumber": 11498416,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x42E639c53a3604e06E04c20F5332EfA8a33029F8",
+      "amount0In": 0,
+      "amount1In": 3000000000000000000,
+      "amount0Out": 2936888069781661531,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 184,
+    "transactionIndex": 133,
+    "transactionHash": "0x0541c8e72164b54dc5977e417dd9cfa87cf26891b52612ddadaf78c68996390d",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa38fd357d25c283dcfffa5f41800b7ecc3b954a8f01225d3fe918bb9ec0bce65",
+    "blockNumber": 11500805,
+    "from": "0x42E639c53a3604e06E04c20F5332EfA8a33029F8"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 2700000000000000000,
+      "amount0Out": 2533500170987503373,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 33,
+    "transactionIndex": 62,
+    "transactionHash": "0x3a65653fdb58b20dc1f3288ae6f9318299c6569b2fb546302ea3bee5968e6860",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x923c856db7f817986d094dc10c5f06551fc94b19ae4a5fecd728acda7ef50788",
+    "blockNumber": 11500807,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x18A168ffC966f1D4b5EF33D38158F182dd30CCDc",
+      "amount0In": 0,
+      "amount1In": 4000000000000000000,
+      "amount0Out": 3575482757454205704,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 38,
+    "transactionIndex": 63,
+    "transactionHash": "0x03c18025bd2b8d090494008f33755cda2410fbb7e6c3efe910e6e9844c604baa",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x923c856db7f817986d094dc10c5f06551fc94b19ae4a5fecd728acda7ef50788",
+    "blockNumber": 11500807,
+    "from": "0x18A168ffC966f1D4b5EF33D38158F182dd30CCDc"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 2533500170987503373,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2841127153952146529
+    },
+    "event": "Swap",
+    "logIndex": 42,
+    "transactionIndex": 64,
+    "transactionHash": "0x76df6d31e34ab58c5c37dc75e7957b48c7f0638c4ca7dd1abd961ae0f7c93b37",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x923c856db7f817986d094dc10c5f06551fc94b19ae4a5fecd728acda7ef50788",
+    "blockNumber": 11500807,
+    "from": "0xb27179Fb6d0412F0EC9873Baf26DAe3457c5494a"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 10080000000000000000,
+      "amount0Out": 8501119822543292757,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 22,
+    "transactionIndex": 3,
+    "transactionHash": "0x3e7e14451d0ab393c213901c1510eec23ca8474757d7f4c6c5b39213916bdec1",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x0405cef3e440348107cfdb18d72f8e4978e8f1a23cfdb3cbc975f0ef137cfc50",
+    "blockNumber": 11500809,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x05Aec30b6135a83982594F16E8f6Cb53524baF63",
+      "amount0In": 0,
+      "amount1In": 1500000000000000000,
+      "amount0Out": 1167351434697106081,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 50,
+    "transactionIndex": 19,
+    "transactionHash": "0xc8cd52bd4631b316c9c63777b44d013ab3c18e5a5fc92be16b703337a188ebae",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x0405cef3e440348107cfdb18d72f8e4978e8f1a23cfdb3cbc975f0ef137cfc50",
+    "blockNumber": 11500809,
+    "from": "0x05Aec30b6135a83982594F16E8f6Cb53524baF63"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 8501119822543292757,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 10220094171650313158
+    },
+    "event": "Swap",
+    "logIndex": 54,
+    "transactionIndex": 20,
+    "transactionHash": "0x90497e026adac72637f9961ce1f393076be24a1ea1731aa100e5364cfc2c83ba",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x0405cef3e440348107cfdb18d72f8e4978e8f1a23cfdb3cbc975f0ef137cfc50",
+    "blockNumber": 11500809,
+    "from": "0xb27179Fb6d0412F0EC9873Baf26DAe3457c5494a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x28C02269d9b666FDBc88667Ec552E1631ac390B9",
+      "amount0In": 0,
+      "amount1In": 2500000000000000000,
+      "amount0Out": 2179857153087787725,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 124,
+    "transactionIndex": 27,
+    "transactionHash": "0x44bfe67d880178b0284974a1dbc7ca2387a59a97cc9ec761304d92a17aeefc86",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x97ebd4b665058b82a502608696f7f3a1984793112440dbddb1a2f825aed421ad",
+    "blockNumber": 11500812,
+    "from": "0x28C02269d9b666FDBc88667Ec552E1631ac390B9"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3503f90F911206751eF786353c0e616cfdb5eC03",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 850645242162900658,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 292,
+    "transactionIndex": 118,
+    "transactionHash": "0xe05da55e8546ee31a413ffd18f0bae0cd18f31effbd89bfa911925ae08bc0518",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x70a84f0d606899c28f373cd458887ff130d8e62f8b0ca93867810dce64dd34b7",
+    "blockNumber": 11500813,
+    "from": "0x3503f90F911206751eF786353c0e616cfdb5eC03"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xF7ca9eDcf403355294585B8f2458CD748B9c2b76",
+      "amount0In": 0,
+      "amount1In": 200000000000000000,
+      "amount0Out": 168705814189694425,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 120,
+    "transactionIndex": 57,
+    "transactionHash": "0xfc14afba888f7d0e37d119a24a71d733a66961ab6a2d232d8afc677d72a6889c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8978c972174811d7e283157e50ddf038e1ad37ac0735040163e4733a97ccf43a",
+    "blockNumber": 11500814,
+    "from": "0xF7ca9eDcf403355294585B8f2458CD748B9c2b76"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x343F1a93A4241b4e441218f931DFFDD1321096F7",
+      "amount0In": 0,
+      "amount1In": 476433894918171063,
+      "amount0Out": 400000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 127,
+    "transactionIndex": 66,
+    "transactionHash": "0x9ee2b2f4b2d17c3ac9e5b870c97ee02258d30168de286bfd5555ba7505809cf4",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x80a643a23072f89d7161f3000c35a979f93a59c45ad4d66013eab9870cf2c607",
+    "blockNumber": 11500815,
+    "from": "0x343F1a93A4241b4e441218f931DFFDD1321096F7"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xc645Be12020daF0669Dd5FfC7f62AeBAD74Aac96",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 831030401112492572,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 152,
+    "transactionIndex": 79,
+    "transactionHash": "0x34f7cb1872712eaa3a5dfdd3b1e65ad88cc51a8531684581d4efea59e75f16bf",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x80a643a23072f89d7161f3000c35a979f93a59c45ad4d66013eab9870cf2c607",
+    "blockNumber": 11500815,
+    "from": "0xc645Be12020daF0669Dd5FfC7f62AeBAD74Aac96"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 3630000000000000000,
+      "amount0Out": 2922787642432053245,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 3,
+    "transactionIndex": 0,
+    "transactionHash": "0x4c1a4999450635621b0714a8a509101d4eceda3249618abbc4c5dba25fc0317a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb952e81b647cdafc8de6c2d642fe0f90446d9638c18f49bf2168d7bc167aece2",
+    "blockNumber": 11500818,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xb7BF6d8c87494C245fc86823C8FEC8812DcE7A6D",
+      "amount0In": 0,
+      "amount1In": 4000000000000000000,
+      "amount0Out": 3059781176828231355,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 8,
+    "transactionIndex": 5,
+    "transactionHash": "0xbbc8ef88835b3aac77a836b0204ced7e466f17f5faa8297b54d0624f7f02fa75",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb952e81b647cdafc8de6c2d642fe0f90446d9638c18f49bf2168d7bc167aece2",
+    "blockNumber": 11500818,
+    "from": "0xb7BF6d8c87494C245fc86823C8FEC8812DcE7A6D"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 2922787642432053245,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3803057278262790175
+    },
+    "event": "Swap",
+    "logIndex": 12,
+    "transactionIndex": 6,
+    "transactionHash": "0x85e26e212cbdf4f74436dc542a6106f15a77c9757eb84ea5109df2df671f0404",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb952e81b647cdafc8de6c2d642fe0f90446d9638c18f49bf2168d7bc167aece2",
+    "blockNumber": 11500818,
+    "from": "0xb27179Fb6d0412F0EC9873Baf26DAe3457c5494a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2936888069781661531,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3634727792801241828
+    },
+    "event": "Swap",
+    "logIndex": 116,
+    "transactionIndex": 64,
+    "transactionHash": "0xd59ba927d0370a4d16501f5a53d1153cd581ab834afda84cc45dc0bc23a3b3d8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb952e81b647cdafc8de6c2d642fe0f90446d9638c18f49bf2168d7bc167aece2",
+    "blockNumber": 11500818,
+    "from": "0x42E639c53a3604e06E04c20F5332EfA8a33029F8"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x74D5477bca8CD2E12Bc755FfC65084A170A190E6",
+      "amount0In": 0,
+      "amount1In": 365277864159239215,
+      "amount0Out": 300000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 172,
+    "transactionIndex": 141,
+    "transactionHash": "0xdbb74e18a9c8d08d139e435472b2c5d4f697dd4743f9e982505cb0ad40faadde",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb952e81b647cdafc8de6c2d642fe0f90446d9638c18f49bf2168d7bc167aece2",
+    "blockNumber": 11500818,
+    "from": "0x74D5477bca8CD2E12Bc755FfC65084A170A190E6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xCFfA182Cd56E854c9ffAcd288CA8E06a51831C28",
+      "amount0In": 0,
+      "amount1In": 500000000000000000,
+      "amount0Out": 408215217936606757,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 27,
+    "transactionIndex": 8,
+    "transactionHash": "0x2a9012ea9f9e35cbfc9e319389f8d3882b1f4140fe76a56a88af573937bd7159",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x11ceeec91fd93d5aa8fd35db6a6ef5ff0c687235b4644231b2a6727a1299b3b6",
+    "blockNumber": 11500820,
+    "from": "0xCFfA182Cd56E854c9ffAcd288CA8E06a51831C28"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xC323579307adF07DbE6c3D2d7a44eCBd8c672945",
+      "amount0In": 0,
+      "amount1In": 652229832326114289,
+      "amount0Out": 528320894350022086,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 59,
+    "transactionIndex": 13,
+    "transactionHash": "0x1be077d4c8bf448fc4473b5c61c55d6870e1b7b8e7624f007cbb23737aa08add",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfc385b3ceeba9ba9dac85126f04d660d8ecb950f422bb8bc6ec0d846ab90a447",
+    "blockNumber": 11500833,
+    "from": "0xC323579307adF07DbE6c3D2d7a44eCBd8c672945"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x31df26c946b64d794D4b8140309F12254A71ECf3",
+      "amount0In": 0,
+      "amount1In": 300000000000000000,
+      "amount0Out": 241432609157532489,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 57,
+    "transactionIndex": 33,
+    "transactionHash": "0xd88f8ddb2be5b2ca2702fd59f9702bf98c1459a0abad4da852d56d063820f2fd",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x3aa9ce6e72e4c59394e972421b134f01c54c3159ebfa56a75475c41b1723a8dc",
+    "blockNumber": 11500841,
+    "from": "0x31df26c946b64d794D4b8140309F12254A71ECf3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 3575482757454205704,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 4295811990360060057
+    },
+    "event": "Swap",
+    "logIndex": 35,
+    "transactionIndex": 16,
+    "transactionHash": "0x4a2d7e668a9091a6707b719719b2b2c37aff45522f97cceac5d9a771e61aa912",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xcaa75c03684a886100fdb0311f8fb50670458ad17cfebd15fe23ef44f107e5d5",
+    "blockNumber": 11500856,
+    "from": "0x18A168ffC966f1D4b5EF33D38158F182dd30CCDc"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xb7BF6d8c87494C245fc86823C8FEC8812DcE7A6D",
+      "amount0In": 3059750579016463000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3481198320829918665
+    },
+    "event": "Swap",
+    "logIndex": 7,
+    "transactionIndex": 43,
+    "transactionHash": "0xfb5f3d44a0da06649d56bd3e06708f3b39888db1286665c639369311b99ad1b0",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x68c6e039b572446cb5687f09217e66017eb05d6b36a496a219ad418b7fa124cc",
+    "blockNumber": 11500857,
+    "from": "0xb6c46A88ECBB6C8ED475e3ba179fACbc8101473f"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xAb7a61452fECdf65A2F7B3dc612FEe83cE8107a5",
+      "amount0In": 0,
+      "amount1In": 500000000000000000,
+      "amount0Out": 446202653508187351,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 68,
+    "transactionIndex": 34,
+    "transactionHash": "0xb132379a92de4682d5db3505383d1194e400ed023fff2c120c68d9387eba4bc3",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x333ab6b5d6907973c1f03cc6c37f87ca8b85d906fe54e0baff7cd819250f5d87",
+    "blockNumber": 11500860,
+    "from": "0xAb7a61452fECdf65A2F7B3dc612FEe83cE8107a5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2179857153087787725,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2394960628932088372
+    },
+    "event": "Swap",
+    "logIndex": 55,
+    "transactionIndex": 26,
+    "transactionHash": "0x813f8ee0dbfd848ac0b55b94d6552938c2d7fe8c37042fc3c482b3d5de092c5f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd4348f6784205863202802a7bee588064e49fe83484189671902227945e8cc4a",
+    "blockNumber": 11500861,
+    "from": "0x28C02269d9b666FDBc88667Ec552E1631ac390B9"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xCFfA182Cd56E854c9ffAcd288CA8E06a51831C28",
+      "amount0In": 408215217936606757,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 439367227357628268
+    },
+    "event": "Swap",
+    "logIndex": 69,
+    "transactionIndex": 34,
+    "transactionHash": "0xf4bf691063856dbe3aa5393d04a3e14c9888c42d870828cfb7cc0a66f7b85df5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd4348f6784205863202802a7bee588064e49fe83484189671902227945e8cc4a",
+    "blockNumber": 11500861,
+    "from": "0xCFfA182Cd56E854c9ffAcd288CA8E06a51831C28"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x788aCDd2a4502f9c062219De1A3Ff5f21dF3Badd",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 919801919451397251,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 94,
+    "transactionIndex": 48,
+    "transactionHash": "0xbaa55632f20b5c7d9ba2372197de8778190c9f62dbd51b035add5f646488b037",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd4348f6784205863202802a7bee588064e49fe83484189671902227945e8cc4a",
+    "blockNumber": 11500861,
+    "from": "0x788aCDd2a4502f9c062219De1A3Ff5f21dF3Badd"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x31df26c946b64d794D4b8140309F12254A71ECf3",
+      "amount0In": 0,
+      "amount1In": 150000000000000000,
+      "amount0Out": 136820131631604284,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 130,
+    "transactionIndex": 55,
+    "transactionHash": "0xa2885ab8698a4aa63569512cf2c8e778bca4f93d8c24fa1777e2246a87a1d6e1",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x80f1e601b893c77dd440e686835908292688b29fd51bde2c7b7405cf582975a2",
+    "blockNumber": 11500862,
+    "from": "0x31df26c946b64d794D4b8140309F12254A71ECf3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xc645Be12020daF0669Dd5FfC7f62AeBAD74Aac96",
+      "amount0In": 831030401112492572,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 900689753426124485
+    },
+    "event": "Swap",
+    "logIndex": 58,
+    "transactionIndex": 136,
+    "transactionHash": "0x8a6e23f59415c051222bec106f8b915b2004a66f99efe345a96d49a93cef981f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbc7706fd5962fd9ef00400e7d68d2db701284b641ea084325c036490b4449114",
+    "blockNumber": 11500863,
+    "from": "0xc645Be12020daF0669Dd5FfC7f62AeBAD74Aac96"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 2960000000000000000,
+      "amount0Out": 2674990161118803325,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 49,
+    "transactionIndex": 27,
+    "transactionHash": "0x8dca70db712c8c0b37e190897369346412a0b7396bd27127e739cf0f87b9c1b4",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2f30ba94bae33a2d1809d8a1be53d8c14cf7cb4a60a5cd014609e689b12e9e8c",
+    "blockNumber": 11500864,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x5De08de3A78d30bB21c0B77cEFEb153677A36C73",
+      "amount0In": 0,
+      "amount1In": 8185479782270348134,
+      "amount0Out": 6841922280076017268,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 56,
+    "transactionIndex": 29,
+    "transactionHash": "0x55bca448518c00c2b403b46b07057e5eaaada12d5068557faffe989e2faea29c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2f30ba94bae33a2d1809d8a1be53d8c14cf7cb4a60a5cd014609e689b12e9e8c",
+    "blockNumber": 11500864,
+    "from": "0x5De08de3A78d30bB21c0B77cEFEb153677A36C73"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 2674990161118803325,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3292325850919072999
+    },
+    "event": "Swap",
+    "logIndex": 60,
+    "transactionIndex": 30,
+    "transactionHash": "0x5e3b74c2ab0a1766366982db789882f278f5312f066e27a5ab0eb04530ea30ce",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2f30ba94bae33a2d1809d8a1be53d8c14cf7cb4a60a5cd014609e689b12e9e8c",
+    "blockNumber": 11500864,
+    "from": "0xb27179Fb6d0412F0EC9873Baf26DAe3457c5494a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBE2AE891e9C8E0Ff1Eee1467e36CF055a1a4f709",
+      "amount0In": 0,
+      "amount1In": 2000000000000000000,
+      "amount0Out": 1629639981803281390,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 19,
+    "transactionIndex": 211,
+    "transactionHash": "0x9798fe6a274fa12067308e0d28125a976f531d6788f74ee5ec4c687a7ba3064b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1dc3e465e674dcbdfcd20cfd9d0bb501701109d763e54b23e01fa41c4082a8fb",
+    "blockNumber": 11500874,
+    "from": "0xBE2AE891e9C8E0Ff1Eee1467e36CF055a1a4f709"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xc405Beb918F296CdFEF155DB18da0A1666930C86",
+      "amount0In": 0,
+      "amount1In": 250000000000000000,
+      "amount0Out": 200590216434052355,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 16,
+    "transactionIndex": 10,
+    "transactionHash": "0x8732ed8542375ed899bb4ee00136818549f4f5e4d56b66866f4467b45dbb1f1e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9bdb59147d6961d064a69f150f192ae0453e1ceb067a280d14b3979b4784ea53",
+    "blockNumber": 11500878,
+    "from": "0xc405Beb918F296CdFEF155DB18da0A1666930C86"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x8b0BcE85F0125B1816d49bE692E5a3FdEAEA6BE4",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 795604882820349218,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 206,
+    "transactionIndex": 155,
+    "transactionHash": "0x7767063fdfc3c60341c93a798f4c9f356aebc6c24d917e8c20bfda3f32e5ddf9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb7ea6b2d39f0ac1ba03ac89f40197ee501415e2f2c3cecfa90456dfde6a494a9",
+    "blockNumber": 11500881,
+    "from": "0x8b0BcE85F0125B1816d49bE692E5a3FdEAEA6BE4"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1247274995891349795
+    },
+    "event": "Swap",
+    "logIndex": 39,
+    "transactionIndex": 17,
+    "transactionHash": "0x797bb020c7cb5c66cc11fbcc10c2bf55e5e80af5bb9fcf66969ba36829005ecf",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x77c07f6c853f2de4eae90801aa9f68915402c3e865930fa8ab55c4fc1f2f620c",
+    "blockNumber": 11500905,
+    "from": "0xDe0e14E314eC13caBC21272f9dD27dEc0C92B504"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1226410987629955181
+    },
+    "event": "Swap",
+    "logIndex": 197,
+    "transactionIndex": 161,
+    "transactionHash": "0xbdb43cb88a442fd46d8245dc35747dd41ff21545a9d0bd72c11ef8be47c22c1c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1751c116c6bbe047f2b0fa31793e3b06fac273d6ce905e762cf1cd5d885d3805",
+    "blockNumber": 11500917,
+    "from": "0x3Df770e09313c229f7B0A18Ab76b38f925A3a939"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x565daA1B8a0ea9A9D2860C4C00d0781f4c6af591",
+      "amount0In": 0,
+      "amount1In": 245104234560802477,
+      "amount0Out": 200000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 291,
+    "transactionIndex": 191,
+    "transactionHash": "0xfdf722bb73b47e3d2d9163ba112325490477a49bff4febaabc5c7bad671dfde9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x22de7b1f8e5a24f13d5602db4f51182de5e64c8e57ce5085eeca65ebff60957e",
+    "blockNumber": 11500919,
+    "from": "0x565daA1B8a0ea9A9D2860C4C00d0781f4c6af591"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 919801919451397251,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1113799525647647246
+    },
+    "event": "Swap",
+    "logIndex": 113,
+    "transactionIndex": 95,
+    "transactionHash": "0x617854cfd9fed9f07f8c61533eef4cac8ab19ad79bd391bfc2b6c67e08571fb6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x641e2ebdbed54ab8b5000e10be1bfd674634149ea3fea5e0ebe6f5453954cdd8",
+    "blockNumber": 11500921,
+    "from": "0x788aCDd2a4502f9c062219De1A3Ff5f21dF3Badd"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x5De08de3A78d30bB21c0B77cEFEb153677A36C73",
+      "amount0In": 0,
+      "amount1In": 4053760979618895673,
+      "amount0Out": 3262235418427031529,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 178,
+    "transactionIndex": 100,
+    "transactionHash": "0xb7553d386356a08ff482a7079881d770d380cf6674a0d82b8d07dc40cb64f2c9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb72026c837edc7e2e70c0af86dfd5d6a66b5889a43a26ac62bea6ae5bd4f92c0",
+    "blockNumber": 11500925,
+    "from": "0x5De08de3A78d30bB21c0B77cEFEb153677A36C73"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x224443005fD9b19331cc688Ba6f80E3411Fa5581",
+      "amount0In": 0,
+      "amount1In": 254285877079868215,
+      "amount0Out": 198721781228986833,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 355,
+    "transactionIndex": 183,
+    "transactionHash": "0x8849f279936639d7345c7b26f9ccf57d792e81295276d5803663d613d2f7f166",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9040f48fd208c976b2a2474e01593dc28c718061ca252f4556aa64947cc02b2f",
+    "blockNumber": 11500927,
+    "from": "0x224443005fD9b19331cc688Ba6f80E3411Fa5581"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xbE76b727AA029F040973EB8FF60aD6a1954F6cee",
+      "amount0In": 0,
+      "amount1In": 818775082882531213,
+      "amount0Out": 635293727662255146,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 109,
+    "transactionIndex": 105,
+    "transactionHash": "0x56a02cdab733f39b6f7ed5fa95c6ae8cc1392fc1b112a3cd415a80acb8049e05",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc7ed64cfa286ace60d1ff5099208a6e81b18c59742bb2db2d0dda62e059c1f1e",
+    "blockNumber": 11500929,
+    "from": "0xbE76b727AA029F040973EB8FF60aD6a1954F6cee"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 10000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 11861865103578548711
+    },
+    "event": "Swap",
+    "logIndex": 287,
+    "transactionIndex": 278,
+    "transactionHash": "0xf6b94f45a1d94662d1e71717723e24d0f1b1f8653546be06e2b10ae0f892c66f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1ca20ea9d2dab721457bbe9c055286ddc59e31af199ab049d9164c1894f25573",
+    "blockNumber": 11500932,
+    "from": "0x781cd87DC6f3466B69440568B0FEe5c8FEb2b7f8"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x397d34604F2b2227F4fb0bFEC2e48D4E85C5aA67",
+      "amount0In": 0,
+      "amount1In": 8791868270006965094,
+      "amount0Out": 7524673903074456491,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 18,
+    "transactionIndex": 7,
+    "transactionHash": "0x9e87dda0570ca85b4c1b8a3d8457d09642d61cab1f816620764835121ead55b4",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa379083677ac5ef1d18c238f5334386ecd10e3e2324d9e33c6b4daa96dbccd60",
+    "blockNumber": 11500933,
+    "from": "0x397d34604F2b2227F4fb0bFEC2e48D4E85C5aA67"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2429877507017062249
+    },
+    "event": "Swap",
+    "logIndex": 36,
+    "transactionIndex": 25,
+    "transactionHash": "0xbe266b12a4825ca29301fc74ec3725d0465240ca0f1d6fea0e530b97425b891b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x94b18931df657cbe94a91edd84aaf6b5e135da0de511634f4161beee116efee4",
+    "blockNumber": 11500935,
+    "from": "0x3Df770e09313c229f7B0A18Ab76b38f925A3a939"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 594924165065859047
+    },
+    "event": "Swap",
+    "logIndex": 13,
+    "transactionIndex": 146,
+    "transactionHash": "0xf7a5fcca442254b75a9239caf9af8a89c8e69ab4bf95b7331ac1328fc02cf578",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x6b3b1e0bd4d1c4c5c6793095eb832cb10a05c9c84f1c8dd4ef8c157d5dfdd5c6",
+    "blockNumber": 11500940,
+    "from": "0x4d30a3CD1c738Cf64101e699bB19F4f2d96DC24B"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xfe717A5d016F5f34F423161e54F751e422753c40",
+      "amount0In": 0,
+      "amount1In": 1202007885084334647,
+      "amount0Out": 1000000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 24,
+    "transactionIndex": 151,
+    "transactionHash": "0x3d98e85da9e22c782574071451b3710c91bf44ba88d92dedd700d98ff106ab9f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x6b3b1e0bd4d1c4c5c6793095eb832cb10a05c9c84f1c8dd4ef8c157d5dfdd5c6",
+    "blockNumber": 11500940,
+    "from": "0xfe717A5d016F5f34F423161e54F751e422753c40"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7995ac79aadB0F5e911e9c12582e2C81Ac9B8D2d",
+      "amount0In": 0,
+      "amount1In": 3000000000000000000,
+      "amount0Out": 2425106307600509540,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 146,
+    "transactionIndex": 70,
+    "transactionHash": "0x7f52cd29e65b66ccc1352be1ffff62f3e9d8f29aa0ddd2836fe8b109279f9be8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x337395cdce0bd09a582be151b605e141e996eaf3ab080b43bbd6db70f19d3b83",
+    "blockNumber": 11500942,
+    "from": "0x7995ac79aadB0F5e911e9c12582e2C81Ac9B8D2d"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 10000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 11569701034589651430
+    },
+    "event": "Swap",
+    "logIndex": 209,
+    "transactionIndex": 133,
+    "transactionHash": "0xbca123c9a06a5d877d74f3f370ebbf42e2bc9b4b9150de5d4ab8eedc6f18c43f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x337395cdce0bd09a582be151b605e141e996eaf3ab080b43bbd6db70f19d3b83",
+    "blockNumber": 11500942,
+    "from": "0x781cd87DC6f3466B69440568B0FEe5c8FEb2b7f8"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2099717217364909679
+    },
+    "event": "Swap",
+    "logIndex": 61,
+    "transactionIndex": 32,
+    "transactionHash": "0x0da3dde8c423e523d1de42f7ce1e53564142e050332397da96f42a2a811741e9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x878f35eb6df471a9302758600ae49053095f7e4fad2cf2889db1ac420771716b",
+    "blockNumber": 11500945,
+    "from": "0x3Df770e09313c229f7B0A18Ab76b38f925A3a939"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x31df26c946b64d794D4b8140309F12254A71ECf3",
+      "amount0In": 0,
+      "amount1In": 200000000000000000,
+      "amount0Out": 192044428982360486,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 224,
+    "transactionIndex": 159,
+    "transactionHash": "0x3c161bb34d6af2cadb6a8ae1dfa642ad91a81ba567b7c97d566c33fcce397fc9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x878f35eb6df471a9302758600ae49053095f7e4fad2cf2889db1ac420771716b",
+    "blockNumber": 11500945,
+    "from": "0x31df26c946b64d794D4b8140309F12254A71ECf3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 10104157698503048797,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9718484739551741551
+    },
+    "event": "Swap",
+    "logIndex": 112,
+    "transactionIndex": 63,
+    "transactionHash": "0xd8640b79d0bc83daef4c4af4c9371c087a3071889759d3e5e3d9686300fbe8a6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x22c89d409f46aa2766c0b28be3008f707867936f6dd8ebe10699611024c1d50d",
+    "blockNumber": 11500949,
+    "from": "0x5De08de3A78d30bB21c0B77cEFEb153677A36C73"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x31df26c946b64d794D4b8140309F12254A71ECf3",
+      "amount0In": 0,
+      "amount1In": 200000000000000000,
+      "amount0Out": 222479126325072802,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 11,
+    "transactionIndex": 57,
+    "transactionHash": "0x4a4be179a789059fc79521a57d8b0b44640a3a6bddab1e133c544ece039e2889",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8054663f849898ebfce007e204636a03c7b2879e43f58d027d647893bef02557",
+    "blockNumber": 11500952,
+    "from": "0x31df26c946b64d794D4b8140309F12254A71ECf3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1167351434697106081,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1036127763024904407
+    },
+    "event": "Swap",
+    "logIndex": 37,
+    "transactionIndex": 41,
+    "transactionHash": "0x14f8883b76d618b211c718d5f80de1bcd798507a8e816ecf4df9173d58f03d83",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf46ea917e4f7ed06ae466a85b81f4397879c18216787b8c026fdc1d837fd4034",
+    "blockNumber": 11500954,
+    "from": "0x05Aec30b6135a83982594F16E8f6Cb53524baF63"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 795604882820349218,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 696365269976835557
+    },
+    "event": "Swap",
+    "logIndex": 43,
+    "transactionIndex": 42,
+    "transactionHash": "0xfbdb2a6bd331809eaed04fd5ebdcc815a88822d64c41d07030bd001602d52161",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf46ea917e4f7ed06ae466a85b81f4397879c18216787b8c026fdc1d837fd4034",
+    "blockNumber": 11500954,
+    "from": "0x8b0BcE85F0125B1816d49bE692E5a3FdEAEA6BE4"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 7524673903074456491,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 6218606610043422546
+    },
+    "event": "Swap",
+    "logIndex": 145,
+    "transactionIndex": 71,
+    "transactionHash": "0x9fa9ddaedf35c94a29b82d8b2974592e651d61457293a4a9c92f409086e02d6f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x18fbedd7e8c2378908a13a78e77c239c45c3a8625bb1f1aa397143d93f192357",
+    "blockNumber": 11500955,
+    "from": "0x397d34604F2b2227F4fb0bFEC2e48D4E85C5aA67"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 200590216434052355,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 157175624300537779
+    },
+    "event": "Swap",
+    "logIndex": 79,
+    "transactionIndex": 48,
+    "transactionHash": "0x40c2124423ba8a5a6b06236f2f3f086badd6327dd2fe5e6dba52c4eef45315c3",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x71e092ea1d6b1b5e311a1ca7d71fd191937d68ffb7dcb8ac7d8a0bfb36a5804a",
+    "blockNumber": 11500958,
+    "from": "0xc405Beb918F296CdFEF155DB18da0A1666930C86"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2425106307600509540,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1867356627159152182
+    },
+    "event": "Swap",
+    "logIndex": 152,
+    "transactionIndex": 71,
+    "transactionHash": "0x489c61e82b3e1e314104d5910ef6f294c4b657c275582a51c516c061a50bdc6f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa98a2ee57123530b4399a7360a84468f796be0ba1b19d401896917b9da2e4f2a",
+    "blockNumber": 11500960,
+    "from": "0x7995ac79aadB0F5e911e9c12582e2C81Ac9B8D2d"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xfe717A5d016F5f34F423161e54F751e422753c40",
+      "amount0In": 0,
+      "amount1In": 767309169307971345,
+      "amount0Out": 1000000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 224,
+    "transactionIndex": 109,
+    "transactionHash": "0xcd966b5f3437ec643ae75f9321cca730aff4b7cc988680e7da6907b75edf5c49",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa98a2ee57123530b4399a7360a84468f796be0ba1b19d401896917b9da2e4f2a",
+    "blockNumber": 11500960,
+    "from": "0xfe717A5d016F5f34F423161e54F751e422753c40"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x31df26c946b64d794D4b8140309F12254A71ECf3",
+      "amount0In": 0,
+      "amount1In": 300000000000000000,
+      "amount0Out": 387385312084054349,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 35,
+    "transactionIndex": 126,
+    "transactionHash": "0xefcc2f383e3e8c71501391c153b8d95b6d48166bc8ff3efb9037c4b633ec85a0",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf58bc560fdc008eece5a0a099bf2ac745327b6db6c8a77db436d8bb935dcf7ca",
+    "blockNumber": 11500961,
+    "from": "0x31df26c946b64d794D4b8140309F12254A71ECf3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 528320894350022086,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 406319132905959773
+    },
+    "event": "Swap",
+    "logIndex": 168,
+    "transactionIndex": 126,
+    "transactionHash": "0x2890aa81986da83aeb19e195565266d5d15871b06f2404246e598decea554a7c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xcbe63f92a4b6c24cb967ba4dcbb6df06112cd31d262353f8ac694f2f7ffade12",
+    "blockNumber": 11500962,
+    "from": "0xC323579307adF07DbE6c3D2d7a44eCBd8c672945"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x5E974411B3626De25BcC18BaecAa2d1e05bAbC3E",
+      "amount0In": 0,
+      "amount1In": 500000000000000000,
+      "amount0Out": 645729626527852118,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 71,
+    "transactionIndex": 65,
+    "transactionHash": "0x64066cbbfa0aeefca761ef57dc37ba8e91e6108e6b8e7ffef2ccc303cd6f3e2b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9ac6bfc44615985fae440ab7110c4412669123e3cf2630e5731641a5198b49e9",
+    "blockNumber": 11500971,
+    "from": "0x5E974411B3626De25BcC18BaecAa2d1e05bAbC3E"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 300000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 231439701409569081
+    },
+    "event": "Swap",
+    "logIndex": 118,
+    "transactionIndex": 95,
+    "transactionHash": "0x9323eb9070c98ab09763355ddd0d2d974e2f2cb42303541bd7a9d26704661115",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x189c72487b1d5cb760f74ef417aa00599f75e36629f45f6ada4039abd857bb34",
+    "blockNumber": 11500972,
+    "from": "0x74D5477bca8CD2E12Bc755FfC65084A170A190E6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x157f15bFF5ff1fc5d1539adD5FF886cc71Ffd402",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 1280041887631985663,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 213,
+    "transactionIndex": 101,
+    "transactionHash": "0xe26ec3643bbb10b985daa678dff128e30c138c6374679117a4c5254bb08a213e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf2a0fa41e92a7880c6ef18154dd2737cc63c33374c165e97f7626e5c0962bbb9",
+    "blockNumber": 11500978,
+    "from": "0x157f15bFF5ff1fc5d1539adD5FF886cc71Ffd402"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x85D10d3c539bC4bbE13fd1631Fa09D14e742Eb71",
+      "amount0In": 0,
+      "amount1In": 700000000000000000,
+      "amount0Out": 883098678766252478,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 21,
+    "transactionIndex": 11,
+    "transactionHash": "0x60f9ee3deac66f55b9468662e1414ea8ce9428eba5ebe99508eaa3ccd43ad96a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf4a28a57f712c1fdcffb78d15ca80e48156d2b9e4f521f5de9e6fcc18ccbdf14",
+    "blockNumber": 11500981,
+    "from": "0x85D10d3c539bC4bbE13fd1631Fa09D14e742Eb71"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xE5c5227d8105D8D5f26Ff3634Eb52e2d7CC15B50",
+      "amount0In": 198721781228986833,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 157302310861855906
+    },
+    "event": "Swap",
+    "logIndex": 183,
+    "transactionIndex": 133,
+    "transactionHash": "0x83f9c4afe0923ad310c478c9034df238c9cc1428a595acb527407a2d46a7b886",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x69dc7c1f0d19b8d5f58572d812b087a041b554616e85ee45785a0bb6c3442229",
+    "blockNumber": 11501043,
+    "from": "0x224443005fD9b19331cc688Ba6f80E3411Fa5581"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x0eFb068354c10c070ddD64a0E8EaF8f054DF7E26",
+      "amount0In": 0,
+      "amount1In": 942016337126543869,
+      "amount0Out": 1175125753727552342,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 42,
+    "transactionIndex": 28,
+    "transactionHash": "0xb926701d063c8f3a90d0e417a6a90bab1df4ee0834da66663ada869d6efdda4f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x50d2b8313c4a84f1562771fb4560f2f03def0cfe02c0a2e4e5da213698bfa49d",
+    "blockNumber": 11501147,
+    "from": "0xc127d53cf7455fB56d1Ea1786379fcd0CbBf19f1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC",
+      "amount0In": 0,
+      "amount1In": 813590929202255168,
+      "amount0Out": 1000000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 63,
+    "transactionIndex": 13,
+    "transactionHash": "0x3a414e387f87d8415adf35358af46b85a144079975c8bac5dcb7b5ea64ac7b3c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb00f427a12298a58c70c6b621cfcfe4c4c46056523b1548e708cc921ec3c085c",
+    "blockNumber": 11501330,
+    "from": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 645729626527852118,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 523491380016902464
+    },
+    "event": "Swap",
+    "logIndex": 212,
+    "transactionIndex": 136,
+    "transactionHash": "0x9901126826817b8ba8047c2c6b2d296a37499df8b69975a837e6e4d841b22b15",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe7afba7ce1876d5aeb14c8500d1d00b25db4ba1a13220d7bdf4db2ca4a812381",
+    "blockNumber": 11501331,
+    "from": "0x5E974411B3626De25BcC18BaecAa2d1e05bAbC3E"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC",
+      "amount0In": 0,
+      "amount1In": 817567224579352434,
+      "amount0Out": 1000000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 179,
+    "transactionIndex": 156,
+    "transactionHash": "0xd373db937198d95d4bb17076cc83cc471f88af0cf4ade8df22d33446b8b96faf",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x31ca72f394267383b24950fc963bf6b827e5678ab87a9de99abb1475feedfcdc",
+    "blockNumber": 11501335,
+    "from": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC",
+      "amount0In": 0,
+      "amount1In": 828887200497915949,
+      "amount0Out": 1000000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 62,
+    "transactionIndex": 63,
+    "transactionHash": "0x0d8f8fd1ad8b64479ec014f98cf7ebcf738183caa0967e83c44dab6b8b7db2dc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdcd4b206d9e50b9581f0af5b9388c77ad0bbac3204b349cba6bccaaa2dd444b0",
+    "blockNumber": 11501383,
+    "from": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1280041887631985663,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1052679566626892535
+    },
+    "event": "Swap",
+    "logIndex": 162,
+    "transactionIndex": 109,
+    "transactionHash": "0x860116bbbaccd9788df693c1023c8c256e368f27e68a33843ec494a502afb8dc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf891317599c1427ba0e0f339c61dcf44091089fb3566c6f46e8168f7ecb240cc",
+    "blockNumber": 11501429,
+    "from": "0x157f15bFF5ff1fc5d1539adD5FF886cc71Ffd402"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4a7d4BE868e0b811ea804fAF0D3A325c3A29a9ad",
+      "amount0In": 635293727662255146,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 515632106656924800
+    },
+    "event": "Swap",
+    "logIndex": 190,
+    "transactionIndex": 79,
+    "transactionHash": "0x13d35449b19120882354b1acc251499dd0e2b6cbea09146af0fccaf218daec2f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa802d76b5f1ca62a47a73a3c72502c68029923da53ed485aaff05b1c8b17c4e5",
+    "blockNumber": 11501539,
+    "from": "0xbE76b727AA029F040973EB8FF60aD6a1954F6cee"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2129639981803281390,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1696443616265180355
+    },
+    "event": "Swap",
+    "logIndex": 317,
+    "transactionIndex": 220,
+    "transactionHash": "0xec79370e74bbefd29aec1cc4fef744a7515a83f0b6147a70b3bb4be23ce1544a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x6b0aa1af75f9d069f783cddbb697b645be6424f4e629004877c1efdd74871c29",
+    "blockNumber": 11501554,
+    "from": "0xBE2AE891e9C8E0Ff1Eee1467e36CF055a1a4f709"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 0,
+      "amount1In": 298515507951676160,
+      "amount0Out": 376952079851379367,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 202,
+    "transactionIndex": 174,
+    "transactionHash": "0x5290d4363e8e486b83887e3bb74671540af72a37790f4a5039794a20c7d9876b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfbb3e11668056e46ffd687562ac339a3841bb05c23012f12bcaaabb7966bae9d",
+    "blockNumber": 11501561,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xae49cEd7165ECee62AFc684aE145aAAd77E85a6F",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 6041232733262175771,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 253,
+    "transactionIndex": 191,
+    "transactionHash": "0x658aee03d812b036f43794e52057c84641e394e71ae1a25964fbcd2d597cb6c2",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfbb3e11668056e46ffd687562ac339a3841bb05c23012f12bcaaabb7966bae9d",
+    "blockNumber": 11501561,
+    "from": "0xF27696C8BCa7D54D696189085Ae1283f59342fA6"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 376952079851379367,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 322468038235917281
+    },
+    "event": "Swap",
+    "logIndex": 269,
+    "transactionIndex": 194,
+    "transactionHash": "0xa174f73c063e8ef8456291a78ba3e888e16902405a444c2936d52c5618058ea3",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfbb3e11668056e46ffd687562ac339a3841bb05c23012f12bcaaabb7966bae9d",
+    "blockNumber": 11501561,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x95dDeB2Cd1347f71f97662d352d468e718939CeE",
+      "amount0In": 1180161608180624410,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 998679100145104055
+    },
+    "event": "Swap",
+    "logIndex": 34,
+    "transactionIndex": 12,
+    "transactionHash": "0xa3eea438330e07a9af93efb44e812f4ef281df3dde7ac265047b8648659b1395",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9fe2db5dd72907e23f9a48dbf5546cb3b62c97d730c94b39891112460c1fa0ee",
+    "blockNumber": 11501815,
+    "from": "0x31df26c946b64d794D4b8140309F12254A71ECf3"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 310000000000000000,
+      "amount0Out": 366216759518466454,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 63,
+    "transactionIndex": 30,
+    "transactionHash": "0x7199dfc4b5e16ced32b894d0069c92bbe01ac05fd8220d856859a9b3b81323ef",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde3398b201d8870387efdf0a6471b100f5bb3881b7996295df3dcb9f1edd8042",
+    "blockNumber": 11501877,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 10000000000000000000,
+      "amount0Out": 10889029334442957055,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 86,
+    "transactionIndex": 38,
+    "transactionHash": "0x531b2c53f70a54055099a7b3292a28f4722af0a7127fb01a28c2cfa24118574c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde3398b201d8870387efdf0a6471b100f5bb3881b7996295df3dcb9f1edd8042",
+    "blockNumber": 11501877,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 366216759518466454,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 360845445778849705
+    },
+    "event": "Swap",
+    "logIndex": 95,
+    "transactionIndex": 40,
+    "transactionHash": "0x3493f5cebe462f5a9f461db11bae916d27ce2eaea1a9e126cd9d504b253330c8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde3398b201d8870387efdf0a6471b100f5bb3881b7996295df3dcb9f1edd8042",
+    "blockNumber": 11501877,
+    "from": "0xb27179Fb6d0412F0EC9873Baf26DAe3457c5494a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 446202653508187351,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 436985110789993496
+    },
+    "event": "Swap",
+    "logIndex": 282,
+    "transactionIndex": 141,
+    "transactionHash": "0xa33f726e45bbca710c6fd11301fb5b3340ea0d9d29375ff361ed4149173eb12d",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x685865b408bdb8eaf948fee6202aa9d5ecce1f3a41351c5278966903b12c1df0",
+    "blockNumber": 11501886,
+    "from": "0xAb7a61452fECdf65A2F7B3dc612FEe83cE8107a5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 1100000000000000000,
+      "amount0Out": 1110892251776342674,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 138,
+    "transactionIndex": 52,
+    "transactionHash": "0xd3e83596bc7ccc4883e012bf82c9021b6132661769d53a81b900d5c37ac3b717",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x4f4cd40cf7a549794345066804887b47c23c9a44b5d69d1a5b984b65f2defba9",
+    "blockNumber": 11501898,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x97960149fc611508748dE01202974d372a677632",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 993943150216867262,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 29,
+    "transactionIndex": 97,
+    "transactionHash": "0x1fdc572f33883f577a5660b22b0707d2dd5795678b116fd75d9174539e2573d4",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdcdab608e4e102161c6224c88d63d53fd7faa5955bfbf553efdbfb7854ec1ba6",
+    "blockNumber": 11502034,
+    "from": "0x97960149fc611508748dE01202974d372a677632"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1000065751784383958
+    },
+    "event": "Swap",
+    "logIndex": 190,
+    "transactionIndex": 107,
+    "transactionHash": "0x7cfe113324ba2a8bb0ccd93df13e6d22c09e9444aa1b3b67e68b4b4b8df44023",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2bcc7a5d3766ffb563a64f6cb7cdbe5727fcf648c3e182a9675704e6c5f68080",
+    "blockNumber": 11502068,
+    "from": "0x97960149fc611508748dE01202974d372a677632"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 2000000000000000000,
+      "amount0Out": 2001145704842491968,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 106,
+    "transactionIndex": 104,
+    "transactionHash": "0xe416b63373e54697b3a193f67d74dc1c13ae6c99c853a555a57a80a576d80800",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1cb23a6d762e96b6731c9924ea584b6eb879e7d1d87c79b0b95b235fade03e73",
+    "blockNumber": 11502119,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 200000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 198856729552503751
+    },
+    "event": "Swap",
+    "logIndex": 318,
+    "transactionIndex": 137,
+    "transactionHash": "0xe0ea2b590422d6042d2ed9416ecaab77aca2303932624e9466c0c6955b488ac9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe4bd7474017a51c074bd8253546121cbdd2c9039b7a4a5498f8c409e3709eac5",
+    "blockNumber": 11502165,
+    "from": "0x565daA1B8a0ea9A9D2860C4C00d0781f4c6af591"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 9500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9402965426619236996
+    },
+    "event": "Swap",
+    "logIndex": 91,
+    "transactionIndex": 129,
+    "transactionHash": "0xcbb861ad80e38ed69f9f3ec3e6c2b347b25c5f9889f68754928d4d34ab301963",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbfb19009a8cfe74af43fd3cce62bf71f6386fb1030bba0e2325cf2ac0161c949",
+    "blockNumber": 11502219,
+    "from": "0xaF25776F6967248d8625F02c26c960b9FEAf9a1b"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 168705814189694425,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 166227577620041881
+    },
+    "event": "Swap",
+    "logIndex": 207,
+    "transactionIndex": 131,
+    "transactionHash": "0x1a78342308587e685284f5e445e89e624da0a6305d72a12849748440c4d37607",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xccbb6515c37c0fef3ff8f4c2b8a50ce5a283f6c1367b9655f7160313bb4b2c25",
+    "blockNumber": 11502274,
+    "from": "0xF7ca9eDcf403355294585B8f2458CD748B9c2b76"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 6041232733262175771,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 5935299820561756019
+    },
+    "event": "Swap",
+    "logIndex": 132,
+    "transactionIndex": 77,
+    "transactionHash": "0xc87251b924b6f54bacac4c925ed9b0fe463f25467256c7caedbc1fed7a8337ca",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x5340641db7c9e632f49670005d3f8e5db83751dc2d6778d70fdb5af2c979d564",
+    "blockNumber": 11502322,
+    "from": "0xF27696C8BCa7D54D696189085Ae1283f59342fA6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x25e52A24da3F6FD303c753C80842E1E5Bbf89c16",
+      "amount0In": 0,
+      "amount1In": 8000000000000000000,
+      "amount0Out": 8086258758235830172,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 240,
+    "transactionIndex": 149,
+    "transactionHash": "0x921fe0c387f6eb35af548549b533b1a55fed0c8373dd1350db2618cb37cdacd8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x5ec4c0d55ec3a5a8142f7421431a5724cfe1de41c0ea318d491c176d765eb406",
+    "blockNumber": 11502370,
+    "from": "0x25e52A24da3F6FD303c753C80842E1E5Bbf89c16"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 10000000000000000000,
+      "amount0Out": 10022345760488511029,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 347,
+    "transactionIndex": 187,
+    "transactionHash": "0xef6f525096b9a30a3fa3caea383368cb33bfd41c47df79f5fe77d51203b2ff10",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x98eb6dc0bdda0da22f5040f322402e4661dd7a9b992513a697cc2a2a65e9f9e5",
+    "blockNumber": 11502393,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 5000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 4970755700676767763
+    },
+    "event": "Swap",
+    "logIndex": 82,
+    "transactionIndex": 50,
+    "transactionHash": "0x1180f2322f22aacd347afaa6ecd4810960f910017de2e89e6c75737f43416891",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x242acfcbaccca99aca7e0f9ec963b34e16de2de8df61b321ec5a8c5a951068f0",
+    "blockNumber": 11502657,
+    "from": "0xD4e6fd78c21085d01DBd596d287360d746Acf4d8"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 883098678766252478,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 875512039326050175
+    },
+    "event": "Swap",
+    "logIndex": 128,
+    "transactionIndex": 206,
+    "transactionHash": "0xf9fa6006c5791dd93edb5e7565d12fb065a2bf692c132d8bdb6ec5a35f1fa19c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd55be229c1f47058c17a5ab9d77f9147faa64b80c5a7f77fc083fc72f13db1b7",
+    "blockNumber": 11502767,
+    "from": "0x85D10d3c539bC4bbE13fd1631Fa09D14e742Eb71"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x60FEAdA91a87101761a08daEFACA05A7fDc88AE3",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 1002566253958522544,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 258,
+    "transactionIndex": 129,
+    "transactionHash": "0xfb1cd18d5cc032f1f324fbbfadceec045c1d7930adac7a49b4ac1e561502233c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc5ec56716b955845cf4374faa9aaf5535b346b6c01832c4df9928555fede3ad9",
+    "blockNumber": 11503345,
+    "from": "0x60FEAdA91a87101761a08daEFACA05A7fDc88AE3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x0eFb068354c10c070ddD64a0E8EaF8f054DF7E26",
+      "amount0In": 1175125000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1165005677212164421
+    },
+    "event": "Swap",
+    "logIndex": 104,
+    "transactionIndex": 77,
+    "transactionHash": "0x0171058aa9cc9fa84ef037fdb32a65f53a2377a6c957b308da12ae9a0842ef7a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1c5665a0a7395d4b86cba4ac5c26c027ef3b828bae7e6a34726aa539fbde0bc8",
+    "blockNumber": 11503505,
+    "from": "0xA4723f399e526Ad2C201e995B69E66936dc0d84E"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x927540125403c06685c1c8e33796419d93a122a1",
+      "amount0In": 0,
+      "amount1In": 249233030354540290,
+      "amount0Out": 250000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 258,
+    "transactionIndex": 149,
+    "transactionHash": "0xa56c50ab63df31970ac722cab9a276f51f502b630a7eb667ac46c7823928ccec",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x82b420b41e05e9765c1a1bd70f99b0314a60fce9d1f9caeb46b128f959b2d609",
+    "blockNumber": 11504227,
+    "from": "0x927540125403c06685c1c8e33796419d93a122a1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x927540125403c06685c1c8e33796419d93a122a1",
+      "amount0In": 0,
+      "amount1In": 334557674381892883,
+      "amount0Out": 335495181401334121,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 187,
+    "transactionIndex": 150,
+    "transactionHash": "0x569d7200aef314f71150480983fa6f837d8928741d507849b3a1b4ad998b0118",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x117f41de3587d240795490aab1440bdc62dfdb078484b6e18f0096ec992ccc1a",
+    "blockNumber": 11504274,
+    "from": "0x927540125403c06685c1c8e33796419d93a122a1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x927540125403c06685c1c8e33796419d93a122a1",
+      "amount0In": 0,
+      "amount1In": 418974642650418644,
+      "amount0Out": 420000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 301,
+    "transactionIndex": 188,
+    "transactionHash": "0x0a240a0c010173f33b3492d9f9be60f3198f9a6a3efeec56d2f8efac1145b31f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x29855bf6565c187c58011afca60955756b2589efe3b4bc7639c2df1aef01f267",
+    "blockNumber": 11504325,
+    "from": "0x927540125403c06685c1c8e33796419d93a122a1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 400000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 396637088821047021
+    },
+    "event": "Swap",
+    "logIndex": 148,
+    "transactionIndex": 67,
+    "transactionHash": "0x29815de8ab0a6900bf969051b087ebdc0c684fead0adc583bec1d1c673122006",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf8134c2bc2299e13e3800fc7ade5846ed1a4fcfa33b237d2e5abf2065e51be3e",
+    "blockNumber": 11504643,
+    "from": "0x343F1a93A4241b4e441218f931DFFDD1321096F7"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 990984203419942401
+    },
+    "event": "Swap",
+    "logIndex": 148,
+    "transactionIndex": 96,
+    "transactionHash": "0xc41c39e7ece75489bb6edcd7778c7079a15815bb2fe7858bfe5957faba8a85a9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xce47981186dc2b1f50bd750e3440e87b821c1708831f7275accf08ec72e1a6e8",
+    "blockNumber": 11505894,
+    "from": "0x5d49C7f7330907Fd67401782f95d93c3fF7305dd"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
+      "amount0In": 1005495181401334121,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 995576653401360636
+    },
+    "event": "Swap",
+    "logIndex": 169,
+    "transactionIndex": 78,
+    "transactionHash": "0xa7787ac5bc1a0ee2be481bf25f87f8870e6966448ba6a436c54a8edfe281f843",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa06a9a475500c20b94543f33fabb2b3ddfcf5554799b83dbe1d5ce8a34ab28f8",
+    "blockNumber": 11506411,
+    "from": "0x927540125403c06685c1c8e33796419d93a122a1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 989305695551541506
+    },
+    "event": "Swap",
+    "logIndex": 82,
+    "transactionIndex": 50,
+    "transactionHash": "0xbf32819be1bd5136731105b18a94b8db03a89c7213c29abdd2f20a7f1b211e0b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x330580c137dd1780f8afeeb4a92bec10fbaa17a370ab704866d936ed98900770",
+    "blockNumber": 11506759,
+    "from": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 850645242162900658,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 840911049403513525
+    },
+    "event": "Swap",
+    "logIndex": 273,
+    "transactionIndex": 199,
+    "transactionHash": "0xb83214322bda1d42eaf12b8792cf2125359ebd62453cbdd4cc1dc13d3801d30c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe478d02398bce30f552b47f064975e224c6f5d73e7042cf4d5ff01da00d6bea3",
+    "blockNumber": 11506767,
+    "from": "0x3503f90F911206751eF786353c0e616cfdb5eC03"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 987808749693388487
+    },
+    "event": "Swap",
+    "logIndex": 248,
+    "transactionIndex": 119,
+    "transactionHash": "0x40ef9c28dc235a5908c067383c2494d8c29efed79160f4e2c62be73582ec0c9b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc22238efaffb0310ded173368a78c4da040523e48179b28ddbf6c350a2fb77a1",
+    "blockNumber": 11506774,
+    "from": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 987001286134464346
+    },
+    "event": "Swap",
+    "logIndex": 186,
+    "transactionIndex": 116,
+    "transactionHash": "0x6de73b99fe0b515ef33900003e7e8d75a67a59c38b9e76b42992e3a382e0224a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf66ce6b60d19e20f678a65102116beff3fb62e2f0de46d7800f326d364349792",
+    "blockNumber": 11506800,
+    "from": "0xa2c071281DEa5641f5c963CB506b5f664dab3AdC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x9d4b552C992ee3B863F3b51E95E46eCf38c21429",
+      "amount0In": 2000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1971585349655913508
+    },
+    "event": "Swap",
+    "logIndex": 176,
+    "transactionIndex": 120,
+    "transactionHash": "0xe0a619689b91acdb834aed5c2f367547e140c6c24778cf6f4a740d46b71641fc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xaed36f4b3ba6aa0b91dfa7a67abc71015b037da67d30b7cdccf5ad1f464ee4f7",
+    "blockNumber": 11507089,
+    "from": "0xfe717A5d016F5f34F423161e54F751e422753c40"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xA84944735B66e957Fe385567dcc85975022Fe68A",
+      "amount0In": 0,
+      "amount1In": 1000000000000000000,
+      "amount0Out": 1008744719568997055,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 239,
+    "transactionIndex": 174,
+    "transactionHash": "0x0dd1545f5ce11518622fefe57c3f308625202c7659a3693819de79734821e40d",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xefde681e9f4514c41ad7715150100bc4d71cef6481c10bbc91ddee20c472fdb7",
+    "blockNumber": 11509252,
+    "from": "0xA84944735B66e957Fe385567dcc85975022Fe68A"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 7000000000000000000,
+      "amount0Out": 7038217193030281976,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 271,
+    "transactionIndex": 164,
+    "transactionHash": "0x23469e2cb9c2023014f86597bdec1ad4cee60237181dbb815b8f6ea18fb03d72",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc3358ff86fc2ca18c3cbf877292c267fd43cc015f62bc8d5478f5ee0899c2641",
+    "blockNumber": 11509509,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 5002787411431620719,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 245,
+    "transactionIndex": 158,
+    "transactionHash": "0x208bc4a1c2ecd8affabefda79e00dafc2619e374205eab29d987574ccbcdc465",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb6fdf0f2735a2244475a248f38262e1365525155e3415c907c03876ec97d32f7",
+    "blockNumber": 11509888,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x2fE50c88f228DACfc24100dE0c5167aa7A539DC6",
+      "amount0In": 0,
+      "amount1In": 250395382746048910,
+      "amount0Out": 250000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 205,
+    "transactionIndex": 144,
+    "transactionHash": "0x1f05fd458902dbf8b86fc1bbc05d1132d32471643dfccf858e36facff1e67dc6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc1482bef32a2931259637085014e49a6bdd3c832d93f0cded408c6d3da6b47d2",
+    "blockNumber": 11509983,
+    "from": "0x2fE50c88f228DACfc24100dE0c5167aa7A539DC6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xFf2Fe3a3EC809A0F3A00F32e29Ca096D359E4aa4",
+      "amount0In": 0,
+      "amount1In": 200000000000000000,
+      "amount0Out": 199647662598046829,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 304,
+    "transactionIndex": 231,
+    "transactionHash": "0x55e5b14c619d912cd8b936ff7b8fbff168425d71f7f18857fa17921713ae56e8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2dfa0a091801501b89cf6f6be7df0a15a10f779a66bed5e60fe6ed53427a864e",
+    "blockNumber": 11510009,
+    "from": "0xFf2Fe3a3EC809A0F3A00F32e29Ca096D359E4aa4"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xa5E79baEe540f000ef6F23D067cd3AC22c7d9Fe6",
+      "amount0In": 199647662598046829,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 198801896883230044
+    },
+    "event": "Swap",
+    "logIndex": 289,
+    "transactionIndex": 185,
+    "transactionHash": "0x7f44d323539d035c7bc94cc5e8671fae664b9c2778ccdab81f5a48bcd5d7f9e8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbcfb307c0c06aef30d8a9d6f108d2df0d8b5228f2381a0c81ae71034057bc758",
+    "blockNumber": 11510138,
+    "from": "0xFf2Fe3a3EC809A0F3A00F32e29Ca096D359E4aa4"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 995279863094067676
+    },
+    "event": "Swap",
+    "logIndex": 251,
+    "transactionIndex": 154,
+    "transactionHash": "0x6a397fc6172b225bd3e9e3005de415d760433a723982229df6b58ffb767d6fd5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdbbc607d214c83c53ddb572da655e7019a8ca4b42e1582eccf52d97a132feace",
+    "blockNumber": 11510482,
+    "from": "0x834D19C0565f0a25dD479907d696C197930427e5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4C7C39D659C7e4dB9EF44D32f37E1C6F4fe48Df3",
+      "amount0In": 0,
+      "amount1In": 300000000000000000,
+      "amount0Out": 299702166170969819,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 69,
+    "transactionIndex": 58,
+    "transactionHash": "0x6ac95035fee85dbd32c6d59be9e4d7a12538ff4c95b042a75dab6ac9117f8112",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x66c89283d32a62d693b824b756ec7ae1b5fb7c04e41406dbe102feb1b24c0052",
+    "blockNumber": 11510660,
+    "from": "0x4C7C39D659C7e4dB9EF44D32f37E1C6F4fe48Df3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 7300000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 7242955722440323714
+    },
+    "event": "Swap",
+    "logIndex": 191,
+    "transactionIndex": 148,
+    "transactionHash": "0x12033c0cf28ef2b88d1225b6db6ee738964ddd5b5e3cdf8b9c20fcea5f1a8cac",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xba4ce9001838c9da260d84a315eb8ee1b1c537d61ab2cd7ac012de0fb475ca30",
+    "blockNumber": 11511376,
+    "from": "0x056C23C029da306b0f73f3e005F7a31BfAD7aF4F"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x242d289b3EEb6842ce0FCc0d87932402299Ae5b3",
+      "amount0In": 500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 494526694237263857
+    },
+    "event": "Swap",
+    "logIndex": 303,
+    "transactionIndex": 119,
+    "transactionHash": "0xd7500f51f5938de880b72900ca2e7a46b2079e0488553d0219bc562582cfc80a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x942a8b1ef3b84b214f51651b1569e9669b9ee3489937d68615a1d134350e84cc",
+    "blockNumber": 11511684,
+    "from": "0x2D2A461ce08ab92f09B13fFb35849c640056F5d8"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "amount0In": 250000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 247188356756577952
+    },
+    "event": "Swap",
+    "logIndex": 75,
+    "transactionIndex": 38,
+    "transactionHash": "0x411a4513a5f8bd9622341249e36eb26e08bb115e1ca07e90abd806f5881fb752",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x30c39f328d22cf8fc811744035da1594812604e0e16f46f81deccf7e210f8ac2",
+    "blockNumber": 11511891,
+    "from": "0x2fE50c88f228DACfc24100dE0c5167aa7A539DC6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 16000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 15716968713270192892
+    },
+    "event": "Swap",
+    "logIndex": 106,
+    "transactionIndex": 100,
+    "transactionHash": "0x9463ca9614ef9f939437696b5393d659d0e03afe8b07a3d443e4cdb6de19252f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x0231b518390351ddb92b3564cc42b7f1a15c580a17f1309b83b63681f3c3d9dc",
+    "blockNumber": 11512766,
+    "from": "0x126543757aEc1758eFc113CbF0199456D9fA17b2"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 16000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 15516288425776785379
+    },
+    "event": "Swap",
+    "logIndex": 171,
+    "transactionIndex": 113,
+    "transactionHash": "0x6fcbd6f9e3c93a184ba0484c8690495c2236b6e12c84caebb0709cc2e25cbc47",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbc0d000270e4500538ac192cdb6d87d6ba356d4296f99dd54fdd366a72bad679",
+    "blockNumber": 11512782,
+    "from": "0x126543757aEc1758eFc113CbF0199456D9fA17b2"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xae49cEd7165ECee62AFc684aE145aAAd77E85a6F",
+      "amount0In": 0,
+      "amount1In": 50000000000000000000,
+      "amount0Out": 50537957679104173795,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 133,
+    "transactionIndex": 100,
+    "transactionHash": "0x3fea4fc94317c9660315857d8e61dc36ff8791d321e5f1f20b1be4e58f6712ef",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9808e0943fa47d9658899304828906b768133dd69f1a35c451bd5ea64ee8836d",
+    "blockNumber": 11512810,
+    "from": "0xF27696C8BCa7D54D696189085Ae1283f59342fA6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 46000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 45328515632341277900
+    },
+    "event": "Swap",
+    "logIndex": 146,
+    "transactionIndex": 70,
+    "transactionHash": "0x23919691b8e49c2f4be72a8a66c718fff102c4726128615ce6ced5836ffd4de8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x60ecf58e4e9b867056494542dbf100d66389026601540256dfd05df7723f2ca8",
+    "blockNumber": 11513148,
+    "from": "0xCd4375467c7bc3975EBF3F6f41dDDe183350c129"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2300000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2222823185945991953
+    },
+    "event": "Swap",
+    "logIndex": 112,
+    "transactionIndex": 74,
+    "transactionHash": "0xfa93298322185cebe06741458bd7e56826e6c2e35e00eccb19214a2b1aeedbf3",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x70097b470a01b2e745c29e622f69941bfb40125a5d968ef15a909a1cc31db92f",
+    "blockNumber": 11513611,
+    "from": "0x677F60d0f51409e6Ec6C1A2511cc9a68fE37992C"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 9000000000000000000,
+      "amount0Out": 9231108125955980602,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 214,
+    "transactionIndex": 128,
+    "transactionHash": "0x09ffbca941100b8591af2a53b266090ae682934199c6a1cc56bd70fed5605ecb",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbe23f18ec72deff3bee0fe622f761cae1351669c1b4d24b2905f13b580d0c254",
+    "blockNumber": 11515331,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 10000000000000000000,
+      "amount0Out": 10177371593488942235,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 223,
+    "transactionIndex": 115,
+    "transactionHash": "0x55310981d63badfb8fe62d082d6f76633c819855efba08a611b7ccc556f4cb75",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x15a32d84f0e058b3d385563596a0bb3d9e3a3080f0e0fa20ed1620c2958033a4",
+    "blockNumber": 11517148,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 10000000000000000000,
+      "amount0Out": 10094754529683740697,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 293,
+    "transactionIndex": 175,
+    "transactionHash": "0xea4c8d3a38f1785284d9f637b20e2f52f6a3a74f7562ca79d77934c09ef60c37",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x29b7b57e46d2927373efb4eab631ad4de1d2bb1048ad2ecfc699f63a8745f666",
+    "blockNumber": 11517157,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 7000000000000000000,
+      "amount0Out": 7017695696119575043,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 313,
+    "transactionIndex": 112,
+    "transactionHash": "0x86338c958fd7ee9a8e24208132ac3f34a4b22aa778f9f91d7e01dadb49e1059f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc69af19518f161dfaac554b4930eee9ae288739ea9e656e5cabe78a0e6ec69ef",
+    "blockNumber": 11517175,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x776d5F7363d2c1aCa7aCabb509eFB88601b50a24",
+      "amount0In": 0,
+      "amount1In": 500706336000000000,
+      "amount0Out": 500446559696470352,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 304,
+    "transactionIndex": 153,
+    "transactionHash": "0x0f3d172b61d23c666af5cc77b222e745b7342a0cbac3036bd1ff3e831ef55cb2",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x378608ba0b1d4e6c3ee74b95e569dcb623729210c1029ee5c492884d36feb624",
+    "blockNumber": 11518049,
+    "from": "0x776d5F7363d2c1aCa7aCabb509eFB88601b50a24"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x51fFa0f0B07BB684eb6801074f3C49135a8B9c41",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179857026430736695,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 73,
+    "transactionIndex": 59,
+    "transactionHash": "0x00e3f4176669c8ce27f5b57e2f2e7dbc987c10b975080c7ca919d8186484c148",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbda1562009ea6203ced1b0ecf1cb6434dc3303878bf5f3d532de83a3ebc95cf8",
+    "blockNumber": 11518150,
+    "from": "0x51fFa0f0B07BB684eb6801074f3C49135a8B9c41"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xfED248008E5ADb261101Da23e6Dec19bB7dD3B96",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179830829926185816,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 29,
+    "transactionIndex": 23,
+    "transactionHash": "0x5a8bed02cbd452f155ae8fbc53fb024ea8d26f12b2f6cefd454f806dbdf1fd98",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x347a8419dc4a48571ae564033e62687b102b9108c76347644538c8d0846de06b",
+    "blockNumber": 11518155,
+    "from": "0xfED248008E5ADb261101Da23e6Dec19bB7dD3B96"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xeE1a1E9A4ab05ef5FC947609E71fA2fA0a676955",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179804639147436435,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 35,
+    "transactionIndex": 17,
+    "transactionHash": "0xaf1bd209c18f121393eb0e0ad9bfc2505336f19a9ea89206a00a94ce8000c96f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x840d62dfca8ea0b39177b99a5b22b75a66ffcc6e8e01caa9a0685da10167d119",
+    "blockNumber": 11518157,
+    "from": "0xeE1a1E9A4ab05ef5FC947609E71fA2fA0a676955"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xd6F608716B40c3DaC09068382767D2c64d64F4Eb",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179778454092819594,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 26,
+    "transactionIndex": 22,
+    "transactionHash": "0x036802b1a6b18e92446ac3bb14dccee83413ea0fe9293435c7b5bd2e9476b44b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x3c5c47b9431cb39b5e9a24c2b0d7009113f905839542a4a7784e4f8b88ffabd5",
+    "blockNumber": 11518163,
+    "from": "0xd6F608716B40c3DaC09068382767D2c64d64F4Eb"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x36B93dE5ab147fE858FD317ED4994E606B264672",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179752274760666946,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 27,
+    "transactionIndex": 34,
+    "transactionHash": "0x0d8ee9cece44c289cf70eb64e88e5407ee9055d86e57f2b2cb4ada60176b04c4",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x951c9bd260b90ef4762ccf69f3e267c807dbf2b871b5165760c2d0865635c19b",
+    "blockNumber": 11518168,
+    "from": "0x36B93dE5ab147fE858FD317ED4994E606B264672"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x2d22Be0AE1c7eDD478FF4042251Ca2e3EAFaefE7",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179726101149310750,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 21,
+    "transactionIndex": 22,
+    "transactionHash": "0xc14eccfd79af0d81543bb9a28b0b507226b404c9c4a64395bc6bc382bb037d61",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd5c7ccef53c417001532c29343bfe3713ff6664bd55a3b99e6f5650279826467",
+    "blockNumber": 11518169,
+    "from": "0x2d22Be0AE1c7eDD478FF4042251Ca2e3EAFaefE7"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x94486300ACa8fBABAB76719E383bF1fF60EDb336",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179699933257083874,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 55,
+    "transactionIndex": 41,
+    "transactionHash": "0xc37b4492108400efa005ca085907a68231a9abdfddb8c248fa0ac8b654a921ba",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1b4459efb7faf52acca37eeefb7281681f6d33ec4800ce2bd592cabc6ace69b7",
+    "blockNumber": 11518171,
+    "from": "0x94486300ACa8fBABAB76719E383bF1fF60EDb336"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x6D6e1ff61981CcB040FF88DE12AdB192D95aeE27",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179673771082319792,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 27,
+    "transactionIndex": 13,
+    "transactionHash": "0x3030c62ad9d53b504ce643f8002440d20c925a5f02959ebf9a8cc3933a71160c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xca2caf0324d17ee75327dbbf8296b02fa1db112f8beec61118927a40868aad1c",
+    "blockNumber": 11518190,
+    "from": "0x6D6e1ff61981CcB040FF88DE12AdB192D95aeE27"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xdb805fBb501e487a31C667F647B17A81C95902e4",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179647614623352586,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 9,
+    "transactionIndex": 1,
+    "transactionHash": "0x7169d54a985067f6014c926cfa7809c57cf6c76cd6f6348ec8910c3936aab44d",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xb1146f1982a813fa39b17e88044c7f3e8c1a26b1fdcb855754ed21da2e635061",
+    "blockNumber": 11518192,
+    "from": "0xdb805fBb501e487a31C667F647B17A81C95902e4"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x230a6Fd0665369E4227534434de31371027598a3",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179621463878516945,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 22,
+    "transactionIndex": 18,
+    "transactionHash": "0x59286befe6fddb6e6dde0466a202acc360f545bd9306274d56f0cf3985781747",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd67f79db6365ea34e79e0c157c0bd28727529a7e6c1da9e65c439b1f67aebf26",
+    "blockNumber": 11518197,
+    "from": "0x230a6Fd0665369E4227534434de31371027598a3"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x2bE8a5d7a81F7735258AE4606A5d76fF0ff1D457",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179595318846148163,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 45,
+    "transactionIndex": 30,
+    "transactionHash": "0x2afca01e8a0bd89c05c22997dda54b747dd936d8d038951c77a864f0c602d871",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe79e8bf7876b951d4646bbe68a59a9d6db239ac77163ff3ff7243e725e2cee0e",
+    "blockNumber": 11518198,
+    "from": "0x2bE8a5d7a81F7735258AE4606A5d76fF0ff1D457"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xE2a0F2f99AD477ab452b8A8d65aA8fFE40faE8B6",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179569179524582142,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 35,
+    "transactionIndex": 11,
+    "transactionHash": "0xd4654d75f77c365e1b6574fea9ad8862125f81411d0985a26bc7ee35d11beb05",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd587d0b02d9a127882be4d0c138132fbf9cf1cf06c6b69fcacd04525400a4568",
+    "blockNumber": 11518201,
+    "from": "0xE2a0F2f99AD477ab452b8A8d65aA8fFE40faE8B6"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0x014416C2A040Cbec183e0835b8464D8A9AA251a0",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179543045912155390,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 36,
+    "transactionIndex": 15,
+    "transactionHash": "0xd75254cb92284deb6a60c337b3c34cafd0d9df3f556cee6f727f36db41076a7a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x274e4e8bc0ee884c1927a2afb85d3077581c444e9abc4cd97f8bed003e326666",
+    "blockNumber": 11518205,
+    "from": "0x014416C2A040Cbec183e0835b8464D8A9AA251a0"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xEB6DfFF6175DDC1953212Fdc463dc9c283E1E8b9",
+      "amount0In": 0,
+      "amount1In": 180000000000000000,
+      "amount0Out": 179516918007205019,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 42,
+    "transactionIndex": 16,
+    "transactionHash": "0x453c53692db10cb34cb3b073c0aad83787140fc6d60dcfa8a9aedfbdf62c3c6a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x274e4e8bc0ee884c1927a2afb85d3077581c444e9abc4cd97f8bed003e326666",
+    "blockNumber": 11518205,
+    "from": "0xEB6DfFF6175DDC1953212Fdc463dc9c283E1E8b9"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 997007162221132116,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 993373577303199943
+    },
+    "event": "Swap",
+    "logIndex": 103,
+    "transactionIndex": 62,
+    "transactionHash": "0x66b9f30d35e0b8de9114789a7c70178b37d4d30c31dec753e27a0bc38f5b2aa8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8aaf6563811ad6ef07b24f6edcb689a95b55923f608019e05a5503352eaa44b9",
+    "blockNumber": 11518714,
+    "from": "0xCE964f5E2Bd01608d17707B438C505a702b5E318"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 23523038803259631,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 23427629194694030
+    },
+    "event": "Swap",
+    "logIndex": 141,
+    "transactionIndex": 62,
+    "transactionHash": "0xc829e4c8fd31d12cb4543fa03117c7792b29fe0bb93ccaab5ff54c74739ef380",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x567cd53b567a5fe8b10e4cb4d8eefa26453afbbcb3f15d5b5faf7b112058b316",
+    "blockNumber": 11518796,
+    "from": "0x882E11F884E9d221706DB9A36bA4856292b26d87"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
+      "amount0In": 1002566253958522544,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 998086545576741113
+    },
+    "event": "Swap",
+    "logIndex": 341,
+    "transactionIndex": 137,
+    "transactionHash": "0xf5c94e9c52c046f9beab4121b18e4a7bd6df6f006dcae92b18cc192d3f95bf89",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x21098fb65154856d7cd72b045ab73f970e8ad6dabc772e3cbd5531b5e125887c",
+    "blockNumber": 11519657,
+    "from": "0x60FEAdA91a87101761a08daEFACA05A7fDc88AE3"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
+      "amount0In": 9912500000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9827914823948123118
+    },
+    "event": "Swap",
+    "logIndex": 139,
+    "transactionIndex": 181,
+    "transactionHash": "0x677d720c0044266896849c41ed229588b9a0cc9df70084f6b6482c06a61e5351",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe7a4b9ab33ec43a9ea8b84f8cc061cee0f1b68dec7bd43876510299e048601b5",
+    "blockNumber": 11521447,
+    "from": "0xAb96Da1b5C223d2A4474D2402bFCe782AA41f32f"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3EB55A1cbfDEFe4e6fBE72C868213456816C2Bdc",
+      "amount0In": 700000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 691286147916047552
+    },
+    "event": "Swap",
+    "logIndex": 112,
+    "transactionIndex": 54,
+    "transactionHash": "0xcf7ddede4d31cc2166058ebda9952bb9f74e7d897c8aaa70de34ed9ab8990960",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x41dd286017a25e89e9865e492d3dade77124c4859daadc4bd28538b5f326f969",
+    "blockNumber": 11522577,
+    "from": "0xBE22b2c3803B5dE83083AE0c352F12a6FCCd7d10"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 4863000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 4792564634437607262
+    },
+    "event": "Swap",
+    "logIndex": 6,
+    "transactionIndex": 4,
+    "transactionHash": "0x8e43add191c3593065bf09780b7477d5c9cf685ad306a520e29f845a3773f14c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x5919a9380ed8c03d8bb7cc9bddd1bd22351a24e949d9c767b196ca1a9dfa3fe5",
+    "blockNumber": 11522726,
+    "from": "0x512045A2B56007cE5c08dc617A35aD84dd078A2d"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 20520000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 20186101945787511
+    },
+    "event": "Swap",
+    "logIndex": 152,
+    "transactionIndex": 107,
+    "transactionHash": "0x1f59afed3e0ef1a3399792e6970f4d82a40e12db4d34a6b99a2fa67fa107f49d",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc1edf65b5fb6f5ef5eee34ad2709c8da7029d0a3afa35b50ae88eb0cdd43edca",
+    "blockNumber": 11522800,
+    "from": "0x512045A2B56007cE5c08dc617A35aD84dd078A2d"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 3000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2947886482143500992
+    },
+    "event": "Swap",
+    "logIndex": 67,
+    "transactionIndex": 36,
+    "transactionHash": "0xdb609b06b5c04ea0456adc972153f2f6dfd709e74af3c4bbebf67e5025e8832f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x6190aaf0ec764cd4ea56ee704aa4e9f018bf020b7a2edfb7a1fa968ccc9fbaee",
+    "blockNumber": 11523014,
+    "from": "0xD9Cd64f09cc9322f2136BFe87d48bB8e0ABbeD02"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "amount0In": 30678099190968037,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 30111283953311541
+    },
+    "event": "Swap",
+    "logIndex": 228,
+    "transactionIndex": 138,
+    "transactionHash": "0xf9fcd095f13bcf25238315ae377c322aff7fbaafc4b9cd0fcee4537eacaf871e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdff68f5fd908b017b7ccf58a944661a7175f09eb0b6e760cb70d4f7b3a3e0a61",
+    "blockNumber": 11523135,
+    "from": "0xf2e38747B29b965B066A62fF3EA60CcE4415f44C"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xFCFA4369EAa965AC4e36f1Dd9fd2852C6542b0F7",
+      "amount0In": 0,
+      "amount1In": 197500280616291633,
+      "amount0Out": 200000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 241,
+    "transactionIndex": 137,
+    "transactionHash": "0x2dd93a35e9642a7dbbd281acbf17d25952fdf0d6c7544446add80ca8a8663dc9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc332e83d802ac60ef6f59e2604177f1604a4511da938d22d5d0aba14409714f5",
+    "blockNumber": 11525116,
+    "from": "0xFCFA4369EAa965AC4e36f1Dd9fd2852C6542b0F7"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 10000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9780481967228951210
+    },
+    "event": "Swap",
+    "logIndex": 99,
+    "transactionIndex": 142,
+    "transactionHash": "0xaf74a031276b01d797bb4ee01a6e37249ec621d9c1f32ed65398b175bb15a493",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xff4af07663c1298072602ff0b5bae02a01f868a67080ebae96650b26bdbbe460",
+    "blockNumber": 11525134,
+    "from": "0x44EA6F4805b92b14951C109fed1EF55D6Fa6d084"
+  },
+  {
+    "args": {
+      "sender": "0x00000000DC0E59517a8114348d9130e7d3835832",
+      "to": "0x00000000DC0E59517a8114348d9130e7d3835832",
+      "amount0In": 0,
+      "amount1In": 6663457289863904387,
+      "amount0Out": 6780270813386419386,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 33,
+    "transactionIndex": 38,
+    "transactionHash": "0xe5a5ed6b4623a7028f83119e88a97c4cf657e7e8e48822158b7cea99ca40f887",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x801ed309dbf24b7adf7a4e45f8717090b4e6d2828264f71db28daaa67abf1bcd",
+    "blockNumber": 11525344,
+    "from": "0xF868D8Bb3f89433B543623D204de840C0BA4Ec0E"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xc43Db41AA6649DddA4ef0Ef20FD4F16BE43144f7",
+      "amount0In": 0,
+      "amount1In": 30000000000000000000,
+      "amount0Out": 30110323096390874352,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 190,
+    "transactionIndex": 67,
+    "transactionHash": "0x4ed0f6d9f1b14d275847fcb8c7962c839b93d5771e6c6da4db5334fec6eac274",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x560419dc0757ab8deb81ef68bca4246114ee1187f96ac9c709c3f6d711dc7ef2",
+    "blockNumber": 11525347,
+    "from": "0xc43Db41AA6649DddA4ef0Ef20FD4F16BE43144f7"
+  },
+  {
+    "args": {
+      "sender": "0x00000000DC0E59517a8114348d9130e7d3835832",
+      "to": "0x00000000DC0E59517a8114348d9130e7d3835832",
+      "amount0In": 6780270813386419385,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 6773667149252625719
+    },
+    "event": "Swap",
+    "logIndex": 182,
+    "transactionIndex": 87,
+    "transactionHash": "0x28e882376fad86e9f82975c6ea3fca64ba928ee3d99101ab76bb014e71411b6a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x5ddb424befd469afbd2eab08b9e5d43847fb6cf57598ffd916d64ca503c54a28",
+    "blockNumber": 11525358,
+    "from": "0xF868D8Bb3f89433B543623D204de840C0BA4Ec0E"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x87413f4E4347EE3E07C62fD6e88d9Dc39F4f478c",
+      "amount0In": 0,
+      "amount1In": 5062662517021167,
+      "amount0Out": 5049999905820463,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 180,
+    "transactionIndex": 97,
+    "transactionHash": "0x35b06d8fffb4097ca3690d96f7bcd8ed70e3f688e75b59378199526aa2f85d36",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x381b00dfa7a63a30b852b2514d5539d29856914a677e54d8fcb0118cb16aceac",
+    "blockNumber": 11525381,
+    "from": "0x87413f4E4347EE3E07C62fD6e88d9Dc39F4f478c"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x2ecBA005DbaE846A51877DcF77ff1D812EA5E242",
+      "amount0In": 0,
+      "amount1In": 5062681617755806,
+      "amount0Out": 5049999905820285,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 178,
+    "transactionIndex": 90,
+    "transactionHash": "0xa7bb4961607acc3d131faf84c59711ae97a23e04f08932f74b4ab59e8db7518f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8cecfce9a84ef2a6aa3308e9427aee3248fae66751d04a4c980bf93eed6e3640",
+    "blockNumber": 11525401,
+    "from": "0x2ecBA005DbaE846A51877DcF77ff1D812EA5E242"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x3a7510c7eC57E58a0B239db6C14989649531c4a9",
+      "amount0In": 0,
+      "amount1In": 5062700718598488,
+      "amount0Out": 5049999905820107,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 160,
+    "transactionIndex": 53,
+    "transactionHash": "0x01e3e6e51139610c73f3fb56cbcaeeec7a13199e3e290514b60f13a3f104c484",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x46255a1b09e000be7ca25bcbc69a1efaccb468dca407175db7850a97fedcc904",
+    "blockNumber": 11525406,
+    "from": "0x3a7510c7eC57E58a0B239db6C14989649531c4a9"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "amount0In": 100000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 99647377170097120
+    },
+    "event": "Swap",
+    "logIndex": 144,
+    "transactionIndex": 76,
+    "transactionHash": "0x94dc5ee9cfc0a0611b36737f9fed6bca7b0fd2211b42dba5c8f9e0fee8930abe",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x6e68c25ce983c2616472047f8c1e89d7cc0a170fcf6bf9054bd9af788f9ab7f8",
+    "blockNumber": 11525518,
+    "from": "0xce66C6A88bD7BEc215Aa04FDa4CF7C81055521D0"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1100000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1096079817786710
+    },
+    "event": "Swap",
+    "logIndex": 237,
+    "transactionIndex": 81,
+    "transactionHash": "0x590af3a6412a03a0b363372cdda6f5fd95fd3824e617c0aa136744bfdd06bb1a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x23c42e464cefd397246202352da1f2f6d842fe01f894d2009098f0e172a9a12b",
+    "blockNumber": 11525772,
+    "from": "0xFCFA4369EAa965AC4e36f1Dd9fd2852C6542b0F7"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x39C0eDEf530d284b8f7820061114157C5bD78093",
+      "amount0In": 500446559696470352,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 498573619090556824
+    },
+    "event": "Swap",
+    "logIndex": 21,
+    "transactionIndex": 22,
+    "transactionHash": "0x59d7ec9b98d23b2da6be08b322ba24d854a8bb671a88f6252506c63d491b2d13",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x074ac93f4fe427114889b61f96336b71f88b9766d6c398ec697080ce27c5770e",
+    "blockNumber": 11527281,
+    "from": "0x776d5F7363d2c1aCa7aCabb509eFB88601b50a24"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7b9AA2472a6FeFd1380B457951b078a4f6eE1B3B",
+      "amount0In": 0,
+      "amount1In": 85000000000000000,
+      "amount0Out": 84820808295449702,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 52,
+    "transactionIndex": 32,
+    "transactionHash": "0xea277b5062c3dc4c554a95f35f53b04e012ec072e26fbb7607acd27505a24193",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x43990b1bb87e2c304e2561aafea0c5661271b275acf115eecd01d61fb79c90fa",
+    "blockNumber": 11527608,
+    "from": "0x7b9AA2472a6FeFd1380B457951b078a4f6eE1B3B"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 995783855320130618
+    },
+    "event": "Swap",
+    "logIndex": 247,
+    "transactionIndex": 108,
+    "transactionHash": "0x04ed0e76fbbdcc4cb900519bc231ef6bd5c006920e94835db06f5268fc17cba5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x7bd4a94d2936b1fa2d3600c79940e682f093e8b0f8f8fa43ade21dabea8af7ce",
+    "blockNumber": 11528494,
+    "from": "0x524b7c9B4cA33ba72445DFd2d6404C81d8D1F2E3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 10000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9918878372355990790
+    },
+    "event": "Swap",
+    "logIndex": 146,
+    "transactionIndex": 89,
+    "transactionHash": "0xa0ad6f60469fbac0f02040ea23b87fedd0e0a9c6b079e8ee21d5fd6961daf620",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbbebec634e41a44e00c1d5403cb714a01f3d749981404103026624e7034de440",
+    "blockNumber": 11528671,
+    "from": "0x524b7c9B4cA33ba72445DFd2d6404C81d8D1F2E3"
+  },
+  {
+    "args": {
+      "sender": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "to": "0xd47140F6Ab73f6d6B6675Fb1610Bb5E9B5d96FE5",
+      "amount0In": 3000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2961891164073026539
+    },
+    "event": "Swap",
+    "logIndex": 277,
+    "transactionIndex": 152,
+    "transactionHash": "0x4512348331a65dddc3bddf0abbaa80256a90398900593aac2c7794cc0dd9e2d9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x992486b6e40c72b8882e40a9af170285e025d3e5678139b2d1c8fe6c03b94584",
+    "blockNumber": 11528922,
+    "from": "0x44cF78e365a3CffEd54b7F2d702C2C6239276fa3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 398900000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 393356127135116514
+    },
+    "event": "Swap",
+    "logIndex": 10,
+    "transactionIndex": 4,
+    "transactionHash": "0x828403db586829b6a336a41761173c81393fa6353b699826de3da8d274cf0044",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x61446a27b256e83c529c7f2c51649630427ce228d8aee144272223b487fcda82",
+    "blockNumber": 11529071,
+    "from": "0xFCFA4369EAa965AC4e36f1Dd9fd2852C6542b0F7"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 69696120000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 68716025801854924
+    },
+    "event": "Swap",
+    "logIndex": 126,
+    "transactionIndex": 62,
+    "transactionHash": "0xa518fb88be4526a6e50f9141b7e89a76370ff1b3b3ddb54e28486f2dda9cd28a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xe6a532fb7503bc6ef3d800dae3c8cfe5ccc7e431e61ad0a14083c0c56d50469e",
+    "blockNumber": 11529242,
+    "from": "0x565367e0e3ccdA9b3c772cA034e554e1C682aa29"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 100000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 98587837577814378
+    },
+    "event": "Swap",
+    "logIndex": 217,
+    "transactionIndex": 111,
+    "transactionHash": "0xbc366064fac7d3918b5bee6396ba270beb777445b4a6affd73e442a50404a69b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x59ea96a0b771d436a4333091d6ba889992d1ffb3e6be7036a76e0978b765ea84",
+    "blockNumber": 11529619,
+    "from": "0x0c4496197429bB59f681aCdE983BeB4cbf1df347"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 985496359404821008
+    },
+    "event": "Swap",
+    "logIndex": 231,
+    "transactionIndex": 130,
+    "transactionHash": "0x6dbd63b523f78b713a986b2e1ad1e9cf628d80058e82fe517fd81a30f44805fc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x65870e1d64643f8b020e7f0f095bce9c1955a2cd53e9ae3759ef485f99a98305",
+    "blockNumber": 11530105,
+    "from": "0x369987DEcD26Db2B72C1218eA6692B79FdE04d24"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 200000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 197015788655230624
+    },
+    "event": "Swap",
+    "logIndex": 86,
+    "transactionIndex": 102,
+    "transactionHash": "0xd62ea3a93063ed14064896f8b0de2bc392d4f247b338856691c3fe2c69254eb5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfed40ff71dc1e147e29efaa8233f5a58181114476d09a19553224c096c9d8065",
+    "blockNumber": 11531103,
+    "from": "0x272F394f5E21af065c982C2617E7DAa00BA903d0"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x2C762B6D4ABfFb986FBdC04EA3F8F8D8E63ee7f5",
+      "amount0In": 0,
+      "amount1In": 20000000000000000,
+      "amount0Out": 20182588095929682,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 400,
+    "transactionIndex": 55,
+    "transactionHash": "0x813f87c38c78a29f2eb347c38df1d6fdf422348cef1e28b90f2c88d8db1103d5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x11a70b348b1395e5e64e4156f191089ff4d12d34790fe1f1ea3bf70f9c0fb388",
+    "blockNumber": 11531566,
+    "from": "0x2C762B6D4ABfFb986FBdC04EA3F8F8D8E63ee7f5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xFf9F720CEEA8986aD8f187A7Fb265B57072CD944",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 5036639685433903273,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 161,
+    "transactionIndex": 86,
+    "transactionHash": "0x0d371a8095d306c1974d300dbe578657ac2169e96a40ec59f6a9e430c316784f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8a3060ac7ae4195ff2acf8d27897525004891410613bd7891d7d9adcf3ffa49e",
+    "blockNumber": 11533095,
+    "from": "0xFf9F720CEEA8986aD8f187A7Fb265B57072CD944"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 494183480543448584
+    },
+    "event": "Swap",
+    "logIndex": 173,
+    "transactionIndex": 78,
+    "transactionHash": "0xaddd6c27ec1f364be173af14731613436c8a0d2916aa8f110ea3b1db573a785a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x195a740e4d3b10434abe5a7f7fb620003a01ff374c07289d72d196f709bfdeb1",
+    "blockNumber": 11533852,
+    "from": "0xD1B067580ad619B32Cc06309012B6b46d506Ed6e"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2399000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2368674241858936314
+    },
+    "event": "Swap",
+    "logIndex": 217,
+    "transactionIndex": 75,
+    "transactionHash": "0xe6c813aa70d7493ef9df80cbc343c125c24e52956c33f74cad51aeb9c8cf357e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfb7b62868bbd66d63513aa2e04b5cb93abd7576acddc6b797d14b556478f0a1c",
+    "blockNumber": 11533895,
+    "from": "0x43CE646a81824798CdfBB638c51231BA8C1E9558"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 986176923580763743
+    },
+    "event": "Swap",
+    "logIndex": 173,
+    "transactionIndex": 102,
+    "transactionHash": "0x1642846b6278c8d8206e6d39c885639b0b631a54f9409b90030e755c353c5a31",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x32d50d87e084f3746cf25a3e65795f13ef6a16a6cd283d528ece4a0fc8d250d7",
+    "blockNumber": 11533941,
+    "from": "0x6CF51FDeF74d02296017A1129086Ee9C3477DC01"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
+      "amount0In": 3100000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3052744499969836801
+    },
+    "event": "Swap",
+    "logIndex": 127,
+    "transactionIndex": 108,
+    "transactionHash": "0x3d5c658cab01b974e3a95413afc67bf0e280ceb544c41e5dbf980ebc85aa8924",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xeb2fc762c4994cc7a9b2fbb5a19651f6402de8254bf91c8b3e8926cd38dc64a8",
+    "blockNumber": 11534515,
+    "from": "0x68045948a843AA17449b11F061E84D5E33Dae98A"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11",
+      "amount0In": 5000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 4909787345487306394
+    },
+    "event": "Swap",
+    "logIndex": 294,
+    "transactionIndex": 148,
+    "transactionHash": "0xa55eff13276fb1d75e1ece134977d935d60f22650342806423f391c9026146e6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x41e1620ab9269a4022aabb064df33ae990449ccb16fd59f4837ddf792a14210e",
+    "blockNumber": 11534977,
+    "from": "0x2E26fbfd06f0C691Ce8F2e399fC920cD804CdE3d"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
+      "amount0In": 141700000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 138891909344366794
+    },
+    "event": "Swap",
+    "logIndex": 206,
+    "transactionIndex": 164,
+    "transactionHash": "0xc9df6ef0abb384f9c1567fbab7950b6f8baf57fb813de8c0cbb80a66ac0d59cc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x69ca03993db55abfc19dc1c165908f5a7190bf5409885224b48b7038327aad03",
+    "blockNumber": 11535026,
+    "from": "0xDB8E4f3C8c16Aa8831a3B4BbAE36E059Ca5f246C"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278",
+      "amount0In": 0,
+      "amount1In": 20000000000000000000,
+      "amount0Out": 20139638797345144036,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 257,
+    "transactionIndex": 146,
+    "transactionHash": "0x6267ea0e88092978218472c1379bd4e2bee28fc910371c90c8f030b502a74ed2",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x08e65a469529d7b2a50f7c9fe64b453176a6282fe3b59a3e0914f28119389a9c",
+    "blockNumber": 11536373,
+    "from": "0x3DbA737ccC50a32a1764b493285dd51C8Af6c278"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xA3b79b78678c15eEC77389b380988B0229Da1876",
+      "amount0In": 1856929508202140105,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1844897012118473365
+    },
+    "event": "Swap",
+    "logIndex": 276,
+    "transactionIndex": 107,
+    "transactionHash": "0x4e140c7a231240fb5f5440e61243f7c9305e79b52dcda2668561af9589030782",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x7bae790938645015a7cb1c35a41cadaee005cb728a2f3f7e0745c3dcf4fc47a7",
+    "blockNumber": 11536885,
+    "from": "0xD9Cd64f09cc9322f2136BFe87d48bB8e0ABbeD02"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 24915499431240659636,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 24520554047246799422
+    },
+    "event": "Swap",
+    "logIndex": 195,
+    "transactionIndex": 69,
+    "transactionHash": "0x9e5016200f113b65463ec95e36e2dcefedce37930b0c5a2afa34dcbab6ef72d6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa2cab49cb6588b0f2566d9cf2906afa8693cd74b84b56e9de8b295b38213d776",
+    "blockNumber": 11536900,
+    "from": "0x0C1dF565Adadf58B0b2EC002CC7eB623213D5b70"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D",
+      "amount0In": 0,
+      "amount1In": 1902159257047362769,
+      "amount0Out": 1936963019141145732,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 111,
+    "transactionIndex": 84,
+    "transactionHash": "0x8a32a3900fc021040ac785fae0edd79f2c2d715e8aa90d5eca78e176ec622a6b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x91e508a2981fa200407093be64905e07e4826ce5506d4334edc33dfbbb71628a",
+    "blockNumber": 11537378,
+    "from": "0xBA3d14a79340CB1EAC61f8ddD0A56F4624Db0e0D"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 0,
+      "amount1In": 20000000000000000000,
+      "amount0Out": 20203859500243042254,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 225,
+    "transactionIndex": 169,
+    "transactionHash": "0x527722ac6f091c1efb1c72b78b662c2f11e08398d2ceb120ae21d4f9393254df",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc5ca4d05a9f192656c79542c93c73511d3f2e4f6e3dc93610e365e2e6d3d312f",
+    "blockNumber": 11538203,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xe3C9E09E49F75d7EC947484abf74579Ea5aa0e18",
+      "amount0In": 0,
+      "amount1In": 25000000000000000000,
+      "amount0Out": 24844533585914515503,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 151,
+    "transactionIndex": 86,
+    "transactionHash": "0x059e5d03a2c4b6199872d0676fafda6557ff902317db446764d2ad4c5bfc76ae",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x22a0afbab7c361e1f3b54039830a73ad2a89df6a8ea2c46fd23144e868e0a1c7",
+    "blockNumber": 11538204,
+    "from": "0x3Df71Df678720133f30CfeFd7430F60bEabd7e64"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 20203859500243042254,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 20243563585258841308
+    },
+    "event": "Swap",
+    "logIndex": 211,
+    "transactionIndex": 106,
+    "transactionHash": "0x41eabf7cd3b988dac076f5731632d97a423936f1a535ede70696cfecfc8c2052",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x22a0afbab7c361e1f3b54039830a73ad2a89df6a8ea2c46fd23144e868e0a1c7",
+    "blockNumber": 11538204,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "amount0In": 99125000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 98586822349537073
+    },
+    "event": "Swap",
+    "logIndex": 35,
+    "transactionIndex": 27,
+    "transactionHash": "0xf0106dd0ecaf1e15ab24ffd12635a0683c85e20d91e1fbbbcd41adfdc8e9aa50",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc969f1f37fc359b148a0a0500783629998bc3252c1ad7d76be56bea68a439fcb",
+    "blockNumber": 11538362,
+    "from": "0x395253beAD978d492a3F5bcf51444ECf4e289Dfa"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4C7C39D659C7e4dB9EF44D32f37E1C6F4fe48Df3",
+      "amount0In": 763361801995889819,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 758966444532584827
+    },
+    "event": "Swap",
+    "logIndex": 155,
+    "transactionIndex": 68,
+    "transactionHash": "0xcbdc94f12e60446cdd73518090e8a7be15e8987085973e04389c21ae2f1c3225",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x80205b407a1dfc42e78fb170e7e629ee372f6a7e1e13f8ec805c7d250badb646",
+    "blockNumber": 11543581,
+    "from": "0x4C7C39D659C7e4dB9EF44D32f37E1C6F4fe48Df3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xa2107FA5B38d9bbd2C461D6EDf11B11A50F6b974",
+      "amount0In": 200000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 198774891965344245
+    },
+    "event": "Swap",
+    "logIndex": 75,
+    "transactionIndex": 40,
+    "transactionHash": "0x4ce10d53541e7ff6662bfd6cb1d12f177f1202b3207d8b6f45e88f662445960f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd7fd6ab38b87182cc535fa6690f227dbedb3a580ad2992b39528c9c90661760e",
+    "blockNumber": 11543748,
+    "from": "0x94304bF6267cA3763A283b63b18afd5DEFDE0E17"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 993417711863052265
+    },
+    "event": "Swap",
+    "logIndex": 80,
+    "transactionIndex": 40,
+    "transactionHash": "0x8f418a13a5ec62587bb3e854c461e4af5d2f8dfe17ea28d325404c8bf5015615",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x44d0e2a0f821aa0df416d06198fed22518526b06e9e00f0eae16ac4e84534448",
+    "blockNumber": 11544278,
+    "from": "0xf30b321970b3a4BBA00d068284F9E4C09D2befE1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 992653382661386162
+    },
+    "event": "Swap",
+    "logIndex": 314,
+    "transactionIndex": 120,
+    "transactionHash": "0x4468d4a2c046eda027eb223f2f0fed486f9c45651c5ea9c0adfe3a0ef1add305",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf1b5f369fd65f33a88981770826f7d95d2eb235511338dc7251fd26f80b120e9",
+    "blockNumber": 11545068,
+    "from": "0x830782f67ab6788B8570392A363a97c748B763c7"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x0D6F96C43260f83A8224A18619C131951230a17C",
+      "amount0In": 0,
+      "amount1In": 33600000000000000,
+      "amount0Out": 33658466023046175,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 164,
+    "transactionIndex": 93,
+    "transactionHash": "0x0574e374caa209c6a8245095a952da892ef0159fda4ce0f1c1dfbac76840c5f5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x47d008b699d5d0c412e3b1d14971adb02fcd0a5aa6c79e3b2de78c185720a73d",
+    "blockNumber": 11545153,
+    "from": "0x0D6F96C43260f83A8224A18619C131951230a17C"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x233b17fba461159D4D6987713Eae82bc03bf1dc9",
+      "amount0In": 0,
+      "amount1In": 177900000000000000,
+      "amount0Out": 178194947389281252,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 125,
+    "transactionIndex": 63,
+    "transactionHash": "0x414d4188ca187b76b32eb05e7c8cfc90c33008c64826a07030b9f4a7d4dc5214",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xdc23ecd728d15497887aa0b2b58031f67ffd6e6d8a2c7d7ef75707225f4ee612",
+    "blockNumber": 11545413,
+    "from": "0x233b17fba461159D4D6987713Eae82bc03bf1dc9"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2004580275892940926,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1987872341949133320
+    },
+    "event": "Swap",
+    "logIndex": 140,
+    "transactionIndex": 46,
+    "transactionHash": "0x0e51d67c8d2eee23f1ef316ec2ed4abe4a5ea074e3dac3554708cdc41cc75518",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xa7cec75c40b28012e13db87c936d014e5de429b4e058c8246a3651fdabf262c4",
+    "blockNumber": 11546276,
+    "from": "0x6C54eFCCc61f0df98b33d2429A2e60556C6fbfE2"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2004090947948790662,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1984311313932869295
+    },
+    "event": "Swap",
+    "logIndex": 314,
+    "transactionIndex": 141,
+    "transactionHash": "0x09dc89b6f603955fa4d7a9a573a97288af58c6d651d5b19b59f87b73edbbb418",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9d831b8a1fd164187490f8e5a39f3bbd40a4df04e158b1bc3168005d5f79212a",
+    "blockNumber": 11546320,
+    "from": "0xd7f45cef0024000384db91793A7b7072c91acE28"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2017625672090855592,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1994610655388613077
+    },
+    "event": "Swap",
+    "logIndex": 153,
+    "transactionIndex": 62,
+    "transactionHash": "0x85b3e577d52e11cb9d8112ec90a8e750b667a237fc0e0b3a2736b7925dcf986c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x018a9705adb6684f8f719f9210213b72ab01d90c280b683c948cd018f53426c4",
+    "blockNumber": 11546336,
+    "from": "0xd25F46bf1b135ea78077f5AE60Ec9E3f69CA7428"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2011137448942683932,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1985103988781218752
+    },
+    "event": "Swap",
+    "logIndex": 151,
+    "transactionIndex": 39,
+    "transactionHash": "0x5db764439fa1691ec067c6256e6b8d2be81e478a7a7fc29e5104a5ad04fa4354",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x536ea5b6e9a4654ce3f163675e7f3f82422461e4dc1297445feff9996a076212",
+    "blockNumber": 11546419,
+    "from": "0x7aA39d502024Fef406976B062553C3ED88506B30"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2040699036576064597,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2011131988282671749
+    },
+    "event": "Swap",
+    "logIndex": 377,
+    "transactionIndex": 156,
+    "transactionHash": "0x50fad18ac5c4a194abe54b3fde069d3ca9aaa5a53076fb82c89c54dd21cb2830",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf9d88470939c46f5ceb822f28a6bdc33aeae7044a009c09b0b324605485698ac",
+    "blockNumber": 11546451,
+    "from": "0x9A46aB9CeFd7A0b7e5b9bAf497dA1d231C4c820E"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x74de5d4FCbf63E00296fd95d33236B9794016631",
+      "amount0In": 0,
+      "amount1In": 9912500000000000000,
+      "amount0Out": 9967293259554510629,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 43,
+    "transactionIndex": 37,
+    "transactionHash": "0xe123e0423bb8bed96c05f0eb6dae2611a3f4f555dedc8b6f4e4657469b378612",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc3f21caf317a521f309e1f2fa3349564722ded4bf5b793a65dfb8a12a7d09a30",
+    "blockNumber": 11547653,
+    "from": "0xf97AA3cA0d936157567879f0F72F12b8d55AFd59"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 4980719942670379794,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 4933246607514224306
+    },
+    "event": "Swap",
+    "logIndex": 120,
+    "transactionIndex": 92,
+    "transactionHash": "0xa9b04af9c1b8305a31c1af0ce2e07b226dd7316b739fb61214ac52a2e235c4e3",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x13f7da4c4080fe59e0d75c05b6985cc6431cd6a809538bed29897a2822f0285b",
+    "blockNumber": 11548193,
+    "from": "0x50b1B2718aEc11dd18F2000Dda8Ad5220bE94791"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2643070491797859895,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2610144464825068352
+    },
+    "event": "Swap",
+    "logIndex": 162,
+    "transactionIndex": 96,
+    "transactionHash": "0xa8a2702d4ba3794930910b64df51e14ff0f868bd4d23fb99da52eb4f41ea4e07",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xbe6e1d1d0e7e054e670a3d73ad6fdf0d424cc5042b63d2591d4fcc1810237210",
+    "blockNumber": 11548295,
+    "from": "0xD9Cd64f09cc9322f2136BFe87d48bB8e0ABbeD02"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 30000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 29595557365709137
+    },
+    "event": "Swap",
+    "logIndex": 175,
+    "transactionIndex": 73,
+    "transactionHash": "0xc4501d1e154200f95453ee05bc63626a0fdb60b343a2bd5a9086174f5849e17e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x63bde7184bb571e300cff1e5927dbd242c10db79ceddbd881590ef4b78d4db6c",
+    "blockNumber": 11548577,
+    "from": "0x84cC968073EE4679907A9e11F8AceAdeAFDe5CfB"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "amount0In": 9967293259554510629,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9795048537407779584
+    },
+    "event": "Swap",
+    "logIndex": 212,
+    "transactionIndex": 117,
+    "transactionHash": "0xe47f1235aec1f2687970fb253f80fb2387112eeba86a2759384d95116df4b7e8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x6c7b20b0a08c8bdf89ab474ed21ad5c9d36154594eb79b8af9a24f873b9970dc",
+    "blockNumber": 11548776,
+    "from": "0xf97AA3cA0d936157567879f0F72F12b8d55AFd59"
+  },
+  {
+    "args": {
+      "sender": "0xe069CB01D06bA617bCDf789bf2ff0D5E5ca20C71",
+      "to": "0xe069CB01D06bA617bCDf789bf2ff0D5E5ca20C71",
+      "amount0In": 680800000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 666283620034887430
+    },
+    "event": "Swap",
+    "logIndex": 78,
+    "transactionIndex": 76,
+    "transactionHash": "0x42f0c2b721d93ff302c526e4ccab646d2b2abb98ecd9b271bd2fb26ea97e387c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x783498903f4c5ad98fb3a71d1efd0f9b76c6b8bb6639f7d459c19a54dfb75887",
+    "blockNumber": 11549125,
+    "from": "0x1e843f4e5D7137d28CAc300edf1413bDD27FAD66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x12Ba829f00bF9d676aa15531f848a42e3838E357",
+      "amount0In": 0,
+      "amount1In": 2465000000000000000,
+      "amount0Out": 2501853904223098219,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 240,
+    "transactionIndex": 177,
+    "transactionHash": "0x094c5d06e7cf612b707b59a12491c0ca1e9e90c401fd9cdfeac0d77bf8f6f9a1",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xf22405c78f3427bf986edadb6c90835a669fdc5bd7d31d017c7db091e295707c",
+    "blockNumber": 11549148,
+    "from": "0x12Ba829f00bF9d676aa15531f848a42e3838E357"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xdF27A38946a1AcE50601Ef4e10f07A9CC90d7231",
+      "amount0In": 15000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 14620208579428967350
+    },
+    "event": "Swap",
+    "logIndex": 163,
+    "transactionIndex": 96,
+    "transactionHash": "0x560132193b5a92de03a6b1a5dc04488f3bcefa6569581b3cac52615f533f8d4f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x54e1e0d3c86545efafa4544e93a2e310e3ed78691d800e63d012e1a8a27d958d",
+    "blockNumber": 11549464,
+    "from": "0x0297ACBE62Ac90C4d79654eEce1aEEEa3B2Bcf9a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7Aa9d09A6d283F5b5ec724D7dd8fa70673553183",
+      "amount0In": 0,
+      "amount1In": 9000000000000000000,
+      "amount0Out": 9199062875082011562,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 63,
+    "transactionIndex": 75,
+    "transactionHash": "0x96fd8139ad47494e488785412d0903e9857deeaccb3cf5de353e5238941a159c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x21f92b5bc1c0bd4b1ff7476da6363992e352faccaaf1b69deebe6ec010e5768e",
+    "blockNumber": 11549820,
+    "from": "0x7Aa9d09A6d283F5b5ec724D7dd8fa70673553183"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 0,
+      "amount1In": 12704183145262972734,
+      "amount0Out": 12874842997840361094,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 259,
+    "transactionIndex": 86,
+    "transactionHash": "0xd5501bfde8b3552b7eb7f4299598ad92b6a7c2c38d942996b4d2869e297e762c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9ffee28c5fe7fd25beb0a776e8758509c198e60a6e9dd7e6d05218d8fd60fb24",
+    "blockNumber": 11550167,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xc0AFEF712a1341cA78dA145B2AFAd346E8C3574F",
+      "amount0In": 0,
+      "amount1In": 20000000000000000000,
+      "amount0Out": 20011202810873867070,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 296,
+    "transactionIndex": 102,
+    "transactionHash": "0x6b14f809e1844179971628b42848dfd68913823fc22329351e837b79eede89c8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9ffee28c5fe7fd25beb0a776e8758509c198e60a6e9dd7e6d05218d8fd60fb24",
+    "blockNumber": 11550167,
+    "from": "0xc0AFEF712a1341cA78dA145B2AFAd346E8C3574F"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 12874842997840361094,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 12826527493620014213
+    },
+    "event": "Swap",
+    "logIndex": 308,
+    "transactionIndex": 105,
+    "transactionHash": "0xd9ee568d75557325b2fa04fe1115f88af62bfcef42a59557c43acd09164cfdc8",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9ffee28c5fe7fd25beb0a776e8758509c198e60a6e9dd7e6d05218d8fd60fb24",
+    "blockNumber": 11550167,
+    "from": "0x001182890A094820eb9d4401693Ba0B9554F0f66"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x04aF95dcA725dDDF04A0fF85F70282F51718560d",
+      "amount0In": 0,
+      "amount1In": 200000000000000000,
+      "amount0Out": 200538976512738617,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 135,
+    "transactionIndex": 92,
+    "transactionHash": "0x71d93e52ed8427525f8edc1293d066b7ff282228524e226aa688206ca9489b30",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9cbfa0b28ed2ccf08bca8d4e74104b8c7c90e2b6f8f4748669296ed80e85b721",
+    "blockNumber": 11550445,
+    "from": "0x04aF95dcA725dDDF04A0fF85F70282F51718560d"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x20196E3fCD0B066d1A6dA1C068b83292a0769Fa5",
+      "amount0In": 0,
+      "amount1In": 2000000000000000000,
+      "amount0Out": 2003670622418981912,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 109,
+    "transactionIndex": 56,
+    "transactionHash": "0x862606f8aa09434f2bca47b8d3f83ed72a0d49f956f08a768928e8ddc54c6399",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xedc212d3f999c470d3376401898636038a6a159b48bf150f7c957c2f665de55a",
+    "blockNumber": 11550486,
+    "from": "0x20196E3fCD0B066d1A6dA1C068b83292a0769Fa5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 991787752600024827,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 984430717118446034
+    },
+    "event": "Swap",
+    "logIndex": 221,
+    "transactionIndex": 140,
+    "transactionHash": "0xa51e949f412d8dbfc09dbf2017af5521619144b4b79e7eb2834bc8c2dbffafa0",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc08277d35b8f22983ee29c30eb6360f8ec6725ce21df2b0677d76dc1f126c277",
+    "blockNumber": 11550941,
+    "from": "0x03d40203C75409cBcfc25165378Ae937C82D47e5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 200000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 198424430181601656
+    },
+    "event": "Swap",
+    "logIndex": 311,
+    "transactionIndex": 120,
+    "transactionHash": "0xd8963ae8ac349892c4fb7f727e0fa64b3e5466ce83ec7d553d5ddd95557230f5",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8bafb3760018ee1006bca53c33667894d70c73f17f1fbdb8fd535565c0b68f19",
+    "blockNumber": 11551478,
+    "from": "0x9dF0234E236e00A01c969594a56DE4eCeBFcc775"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 8000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 7911814161404916313
+    },
+    "event": "Swap",
+    "logIndex": 300,
+    "transactionIndex": 180,
+    "transactionHash": "0x4caddbc2aea2dd6bb5022718f196e624a1c65194980ad235d20426ca3449cdf6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x59d56257979f4acd1f10b7b3f6000514c67adfef4522e5795cdb8f44b9b6d3db",
+    "blockNumber": 11551543,
+    "from": "0x55A44B759a95A571bfFC902043aDa64251558D71"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 8000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 7862952730759426348
+    },
+    "event": "Swap",
+    "logIndex": 114,
+    "transactionIndex": 68,
+    "transactionHash": "0xfd6891518c58ea65573178402fca4980dbbfe248b9b7c8e2b64ced21ff9dc11a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x8e6de39b8350f00bc07d0ddc1f9fed9abe831db44c17fcbfca3f358858430aff",
+    "blockNumber": 11551547,
+    "from": "0x55A44B759a95A571bfFC902043aDa64251558D71"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 8000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 7814542764989696670
+    },
+    "event": "Swap",
+    "logIndex": 287,
+    "transactionIndex": 226,
+    "transactionHash": "0x0be867b80c97471397e24e61954044a22620327088b6725b2b13eddcfff99358",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x01aa07d84873af505e4b7a5d109e1a9d6af640ba71413df5d7a79a72a049094b",
+    "blockNumber": 11551559,
+    "from": "0x55A44B759a95A571bfFC902043aDa64251558D71"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 8000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 7766578717936942390
+    },
+    "event": "Swap",
+    "logIndex": 270,
+    "transactionIndex": 102,
+    "transactionHash": "0x11ace22e355427e7762a18b9ea24c9a4228423d59cc451ace260b6b161b2ad24",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfd18817ba17e36a609b99938b6836597cc3dc60b3a170629e208c463bf47c695",
+    "blockNumber": 11551572,
+    "from": "0x55A44B759a95A571bfFC902043aDa64251558D71"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xae49cEd7165ECee62AFc684aE145aAAd77E85a6F",
+      "amount0In": 0,
+      "amount1In": 10000000000000000000,
+      "amount0Out": 10230036131357286834,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 232,
+    "transactionIndex": 230,
+    "transactionHash": "0x81600fce3f78c043a93eefaee2aa2fa5aace7c4d787d1c9411b5915a4015c739",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x7225ffe23e92c98c3989fc872127e86e2da816bf715004e8bb07bab9ccfe5010",
+    "blockNumber": 11551626,
+    "from": "0x0385b3F162a0e001b60Ecb84D3CB06199d78f666"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x60E9762d7d29F17c017ac45Cc03ee0eb996FfDD8",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 5084862436477769463,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 272,
+    "transactionIndex": 226,
+    "transactionHash": "0x6fa0c2af8f6ca22914345b9268dcdf567a848aca43b657b713268eb452608def",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x55ce09393bc4fcc9606e21b7d7343c242e1b457a0078061ee987244aacbf937e",
+    "blockNumber": 11551916,
+    "from": "0x60E9762d7d29F17c017ac45Cc03ee0eb996FfDD8"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 84820808295449702,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 83066231293611792
+    },
+    "event": "Swap",
+    "logIndex": 199,
+    "transactionIndex": 333,
+    "transactionHash": "0x0e699d337452ce2584fa5e8702cc35bcd11d0781c6b1352c9519d50f3c038d38",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x4b6dae139f88a48dc8c891acb5c439217003cce2fae3b0466319da30aa02359f",
+    "blockNumber": 11552828,
+    "from": "0x7b9AA2472a6FeFd1380B457951b078a4f6eE1B3B"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xEe7C4aCA7D64075550F1b119b4bb4A0Aa889c340",
+      "amount0In": 0,
+      "amount1In": 2958977263109630994,
+      "amount0Out": 3000000000000000000,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 291,
+    "transactionIndex": 192,
+    "transactionHash": "0xefa4dacbc91d2333f41c4d742dbf55277a00df773db7b02e1d11c0e06df35bb9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x7b54eeedd8fee57cb7955d7bcda36d3c71f97c90a7412b1713e61410967c9a76",
+    "blockNumber": 11554455,
+    "from": "0xEe7C4aCA7D64075550F1b119b4bb4A0Aa889c340"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "amount0In": 32000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 31027549982019138816
+    },
+    "event": "Swap",
+    "logIndex": 235,
+    "transactionIndex": 131,
+    "transactionHash": "0xac416cbb08e3b60a1d4177fd1fc9ba590d69dbd05df8571d6f4ccd2ae75826fb",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x42154fdd0225e0e7c21c1fae70f940ff00d237fc46498e5ff2d3f7b1f4867597",
+    "blockNumber": 11555397,
+    "from": "0x99479D95980a0A3377A1c2ef9492a9c71bc32259"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x00A5af2D7DA07dF76073A6f478f0fB4942D2659a",
+      "amount0In": 0,
+      "amount1In": 5000000000000000000,
+      "amount0Out": 5178899482591410712,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 234,
+    "transactionIndex": 118,
+    "transactionHash": "0x2a0a00416c3c7b54abe85a621564cad8b2589f47720cc647c98d0dd3858dc9d0",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x061104c1888e7c719b3fd57e585786d0aca556f315c63d2a389aae5e477a66b7",
+    "blockNumber": 11555929,
+    "from": "0x00A5af2D7DA07dF76073A6f478f0fB4942D2659a"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 480697012650802706
+    },
+    "event": "Swap",
+    "logIndex": 179,
+    "transactionIndex": 136,
+    "transactionHash": "0x324aba2b8cbe2011bab95d4e72684350e5bd60a145cc2b6deba1d10a0e6b5a17",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x38974bf4e3c3fa08f48ea63d76f6830c54d328f9b395b961deee5e6b1f9aad31",
+    "blockNumber": 11557414,
+    "from": "0x83219d95793C4B044FCbCa3D8D395dDeFEa5413D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x19b5f8eBa01e8e24B21f01588767Aa34A0ace248",
+      "amount0In": 0,
+      "amount1In": 33892059055387888,
+      "amount0Out": 35048062681119482,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 183,
+    "transactionIndex": 94,
+    "transactionHash": "0x38ead72d788b5e4e3a8e7b01d93c16a8ad369075e718262804d91c52669bd94b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x4374650a9a0da62be049fdfc552d1ed101084c24139dd8abf994ec7d3155baff",
+    "blockNumber": 11557486,
+    "from": "0x19b5f8eBa01e8e24B21f01588767Aa34A0ace248"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x97524f602706cDB64F9DFa71909ACE06e98200b6",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 960870082780190357
+    },
+    "event": "Swap",
+    "logIndex": 222,
+    "transactionIndex": 151,
+    "transactionHash": "0x2b7f85601e30842a3a20688f63965b745ba805e318a920073ec5bd7066ce7f8e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9fe1d983c0b18c0658e7d82550ae8d294f4e2b150aa883b2dad48983a9ff4cf8",
+    "blockNumber": 11557850,
+    "from": "0xF872886BE28d133a11f0D0a5B167160A70DAA1EB"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 32000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 30366057979272286992
+    },
+    "event": "Swap",
+    "logIndex": 266,
+    "transactionIndex": 72,
+    "transactionHash": "0x53179079b0b90409e35d5df19456d7e2eafd6f035a50b3f82e80970f225073ff",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x23fed60956ede2578f05e1d689517133e25892f485a5d985d42f1297c1264a22",
+    "blockNumber": 11558024,
+    "from": "0x621f2A5ef987e064E76da1EB378e7193CeFC0baA"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 800000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 749758992672881632
+    },
+    "event": "Swap",
+    "logIndex": 224,
+    "transactionIndex": 154,
+    "transactionHash": "0x73c697dfff7ce7da5b8c01f5bb61ea890db98999d6a5930cb01b0a65034c7b07",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1e86fed414f4b5eb9d41eec3a5f1d7ced872138552e314a72e09a716f76ddd9f",
+    "blockNumber": 11558207,
+    "from": "0x61a1fE521232eD09433616136D6CCC24CA01d6C5"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 3150000000000000000,
+      "amount0Out": 3337744518112277547,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 19,
+    "transactionIndex": 10,
+    "transactionHash": "0xd79f381b79248043d6c2b4e192893eef8e9f3a49ca0c7f9f5193faf9743974a2",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x84f276b6cefc3c5694a6bf686da4c76455873b1e49e30980393604d06588feb1",
+    "blockNumber": 11558269,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4d57db062099aDD5fc3881EB6d3639c2AaE9AE12",
+      "amount0In": 0,
+      "amount1In": 2810470784691795214,
+      "amount0Out": 2970880582606693207,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 111,
+    "transactionIndex": 69,
+    "transactionHash": "0xe9984dc295bf9ec4f82e36d4433f2bdd9e125e25acc63379f92f8a280b9281f6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x84f276b6cefc3c5694a6bf686da4c76455873b1e49e30980393604d06588feb1",
+    "blockNumber": 11558269,
+    "from": "0x2DBE185F4F5f1C7e25Ced573AA04782F46EFD8C1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4d57db062099aDD5fc3881EB6d3639c2AaE9AE12",
+      "amount0In": 2970880582606693207,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2793652091392540156
+    },
+    "event": "Swap",
+    "logIndex": 135,
+    "transactionIndex": 79,
+    "transactionHash": "0x007ff61440fa67c26801078633245143c2cd09ca31d4c14323eb4ece63881001",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x84f276b6cefc3c5694a6bf686da4c76455873b1e49e30980393604d06588feb1",
+    "blockNumber": 11558269,
+    "from": "0xb25e343b705e144Be3f799Ce5BD4f3d99045AF0d"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 3337744518112277547,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 3131173153190147270
+    },
+    "event": "Swap",
+    "logIndex": 142,
+    "transactionIndex": 82,
+    "transactionHash": "0x006e24384a6ab34344ccc3c752c293e2572f2d3e11fe790de9871c939cd38d08",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x84f276b6cefc3c5694a6bf686da4c76455873b1e49e30980393604d06588feb1",
+    "blockNumber": 11558269,
+    "from": "0x90dB3402079A5C2619cCf9340351feAc2899A39A"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 0,
+      "amount1In": 6300000000000000000,
+      "amount0Out": 6666999316666766663,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 3,
+    "transactionIndex": 0,
+    "transactionHash": "0x75eab7b991840ad57a3b3ccf1828ff6efb1f8740df63c591364fd56a5ec77306",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde8b393a76ff5c22e538768c89d6cd1d69812ce06640e97520e0dc6ee4d78e3f",
+    "blockNumber": 11558277,
+    "from": "0x01FA5D881901f5300066b169584Cb6BCB03347fC"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4d57db062099aDD5fc3881EB6d3639c2AaE9AE12",
+      "amount0In": 0,
+      "amount1In": 2793988465258525258,
+      "amount0Out": 2946004632171460978,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 239,
+    "transactionIndex": 143,
+    "transactionHash": "0x73170bcca9fa4c88e94bb7eaee5e84cf17fda803d525f68d4ab65c9a338f4500",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde8b393a76ff5c22e538768c89d6cd1d69812ce06640e97520e0dc6ee4d78e3f",
+    "blockNumber": 11558277,
+    "from": "0x2DBE185F4F5f1C7e25Ced573AA04782F46EFD8C1"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4d57db062099aDD5fc3881EB6d3639c2AaE9AE12",
+      "amount0In": 2946004632171460978,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 2777268273639115386
+    },
+    "event": "Swap",
+    "logIndex": 261,
+    "transactionIndex": 154,
+    "transactionHash": "0x7f04bee0b0dd15e94556ee3bd5b3db9b98c9c43c47a9034f29df424afe161998",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde8b393a76ff5c22e538768c89d6cd1d69812ce06640e97520e0dc6ee4d78e3f",
+    "blockNumber": 11558277,
+    "from": "0xb25e343b705e144Be3f799Ce5BD4f3d99045AF0d"
+  },
+  {
+    "args": {
+      "sender": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "to": "0x1b3006D57d5d9653a4ecAEa6CFb0fd72a1537cC9",
+      "amount0In": 6666999316666766663,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 6262393266018781654
+    },
+    "event": "Swap",
+    "logIndex": 273,
+    "transactionIndex": 158,
+    "transactionHash": "0x1a0e1486f3b488c5cd4faebf1b52b8ee8bdbd65edb3dc2cef8b548bc2ec419da",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xde8b393a76ff5c22e538768c89d6cd1d69812ce06640e97520e0dc6ee4d78e3f",
+    "blockNumber": 11558277,
+    "from": "0x90dB3402079A5C2619cCf9340351feAc2899A39A"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xc0AFEF712a1341cA78dA145B2AFAd346E8C3574F",
+      "amount0In": 0,
+      "amount1In": 25000000000000000000,
+      "amount0Out": 26259741791270841029,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 262,
+    "transactionIndex": 152,
+    "transactionHash": "0xb39a1c40850552ac80781dd8c4825254ae562b2af0e05d82d63d19c3df01dcc7",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x7e8addbbc5e3dc64b60dffaa5f36b78d64a48cc2d7108891b11242ab565e1683",
+    "blockNumber": 11558285,
+    "from": "0xc0AFEF712a1341cA78dA145B2AFAd346E8C3574F"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xb0e83C2D71A991017e0116d58c5765Abc57384af",
+      "amount0In": 0,
+      "amount1In": 7000000000000000000,
+      "amount0Out": 7259461438129395403,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 217,
+    "transactionIndex": 117,
+    "transactionHash": "0xb7eaaace6d8092b8e6b5f2693f8ca2136433415d7c9af8c526b12a092e0406f6",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xaebb55d2d7bd13f92bf193e77e5a7f243b157ada0e726fae9769d2e96c7ed683",
+    "blockNumber": 11560242,
+    "from": "0xb0e83C2D71A991017e0116d58c5765Abc57384af"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 0,
+      "amount1In": 25000000000000000000,
+      "amount0Out": 25600574510150158588,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 167,
+    "transactionIndex": 125,
+    "transactionHash": "0xa5ac3711b1c2d7f6446f432a03e0b7afb40611acf0bcfe2bfe6d99d768b6086e",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2408ac395c75cf208356aa1cf8b97e3259cff706864884eb85289d143f85f417",
+    "blockNumber": 11560255,
+    "from": "0x0B7436DD7CEcE111107f2B3DE38887C8D079d376"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xb0e83C2D71A991017e0116d58c5765Abc57384af",
+      "amount0In": 0,
+      "amount1In": 25000000000000000000,
+      "amount0Out": 25101977480843400615,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 186,
+    "transactionIndex": 141,
+    "transactionHash": "0xdc1926e55a4e6f63c9f744a2e54d19065957bae0f1b97e66df3c25f31b46ce49",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2408ac395c75cf208356aa1cf8b97e3259cff706864884eb85289d143f85f417",
+    "blockNumber": 11560255,
+    "from": "0xb0e83C2D71A991017e0116d58c5765Abc57384af"
+  },
+  {
+    "args": {
+      "sender": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "to": "0x000000ED5113006B6f24002dd7577Bb547e2005A",
+      "amount0In": 25600574510150158588,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 25340422779884670660
+    },
+    "event": "Swap",
+    "logIndex": 192,
+    "transactionIndex": 144,
+    "transactionHash": "0x4d53f8c0e237f2b6487d49deb5b621e975fa9c71208f7a902478695a19228736",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x2408ac395c75cf208356aa1cf8b97e3259cff706864884eb85289d143f85f417",
+    "blockNumber": 11560255,
+    "from": "0x0B7436DD7CEcE111107f2B3DE38887C8D079d376"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xb0e83C2D71A991017e0116d58c5765Abc57384af",
+      "amount0In": 0,
+      "amount1In": 15000000000000000000,
+      "amount0Out": 15124930069502444556,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 276,
+    "transactionIndex": 117,
+    "transactionHash": "0x6c0c5f0d8d944a4bcdcbbef2b9753f210170c82c8710550818c3034ea5fb5411",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x37cccc7ece1ad273294f65ca515e89da080270ec23937967e4dda51f11fa869c",
+    "blockNumber": 11560297,
+    "from": "0xb0e83C2D71A991017e0116d58c5765Abc57384af"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 8500000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 8401073487835089290
+    },
+    "event": "Swap",
+    "logIndex": 267,
+    "transactionIndex": 136,
+    "transactionHash": "0x264c9fb09d543fd0703eb4343f6c65bd17ddc0c97d2465abe74120fc8302d5f7",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x699a5057b41f1d865772bb2d7598d039a5ee99cc8d5e0d2712d9c0526ff36df1",
+    "blockNumber": 11561308,
+    "from": "0xaE86583bd7963433bcf2e59971fe2F6fB0cAFb6D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x4ebc8642D4A890fE7C0052Bca4BD74EFBEf00f74",
+      "amount0In": 0,
+      "amount1In": 248000000000000000,
+      "amount0Out": 250218532417631594,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 250,
+    "transactionIndex": 161,
+    "transactionHash": "0x5f91e93861af3288c683ac0634d66f362da2a39cc534a5b3593ea447561af2c9",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x74959a0ffc27274c7ca6296bd441fc48f67c195070cb797f11a8844c648c1182",
+    "blockNumber": 11562937,
+    "from": "0x4ebc8642D4A890fE7C0052Bca4BD74EFBEf00f74"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x615B1ab0Da31760fCad349Ef2D360D42f2c17676",
+      "amount0In": 0,
+      "amount1In": 2000000000000000000,
+      "amount0Out": 2016108174501236556,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 219,
+    "transactionIndex": 122,
+    "transactionHash": "0x6d480ce110dec0d6b0035ddd736c7c76588c22f7204cdd9a9f004de4d2c4d427",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x25d5923b334dc9a1387462c7cf81befadc6587591a4cbbb4458618ac129a3afb",
+    "blockNumber": 11563047,
+    "from": "0x615B1ab0Da31760fCad349Ef2D360D42f2c17676"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xcA842B14EbCEF53b6D253528bDaCD231E8835Ab5",
+      "amount0In": 0,
+      "amount1In": 2000000000000000000,
+      "amount0Out": 2012936780413822901,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 164,
+    "transactionIndex": 87,
+    "transactionHash": "0x04b79c0ce268435f49295e59e217c556f80ef88d49371ca7553aa57c9e62610f",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x74caf971d2301936cddd0618343f432f2d112f4887e1821bd04cfa8345d81b86",
+    "blockNumber": 11563741,
+    "from": "0xcA842B14EbCEF53b6D253528bDaCD231E8835Ab5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 100000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 98836076572761550
+    },
+    "event": "Swap",
+    "logIndex": 246,
+    "transactionIndex": 161,
+    "transactionHash": "0x3e8a2867d1793689f02d3390562a3e2b8c5dd6eb97cb683d39222090aca65852",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1fe4ffcde98337f7c52375c92722dd93faed25cf576f787f8be9b1c01fda66b9",
+    "blockNumber": 11564626,
+    "from": "0x16c92f04384A1B2852850D849451922c0dD442F3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 1000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 987937616981519490
+    },
+    "event": "Swap",
+    "logIndex": 41,
+    "transactionIndex": 42,
+    "transactionHash": "0x1b92bdd137027b54b125cf9195ee033acb5c019d12d84a8e7574738da3619bac",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xd9fcb295583f4f1b69df5ce14ffbd872f4914dcfe72ccb0cd2f6ff305200654e",
+    "blockNumber": 11565782,
+    "from": "0x82f8E2236BE6666DCA57225b87ee287e06e60539"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x43CE646a81824798CdfBB638c51231BA8C1E9558",
+      "amount0In": 0,
+      "amount1In": 200000000000000000,
+      "amount0Out": 201291853249656378,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 288,
+    "transactionIndex": 151,
+    "transactionHash": "0xdfd3f70e32a12078f9114ebc34511bd1e5b9dd6007a6b90a63de9d921acb79c2",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x19a2e9683bd1463fb2d8372788f76d5002d997b3a7bff6c5c84adadccd40952e",
+    "blockNumber": 11568380,
+    "from": "0x43CE646a81824798CdfBB638c51231BA8C1E9558"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 4288899482591410712,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 4229120362118665623
+    },
+    "event": "Swap",
+    "logIndex": 274,
+    "transactionIndex": 88,
+    "transactionHash": "0xe7455a888580d923b4a381e1c2edfa093f3bf8c50d4111165b2c00ea1a6b9ebc",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x39930fbdecb8dc878a383879755e5d8570357ed6e37cbc5145a9fd4c06ab3e2e",
+    "blockNumber": 11568624,
+    "from": "0x00A5af2D7DA07dF76073A6f478f0fB4942D2659a"
+  },
+  {
+    "args": {
+      "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+      "to": "0x3F7C10cBbb1EA1046a80B738b9Eaf3217410c7F6",
+      "amount0In": 0,
+      "amount1In": 1441757458726661104,
+      "amount0Out": 1454990079939712405,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 304,
+    "transactionIndex": 180,
+    "transactionHash": "0xc8938788d396c0f8118df71d46caf1dcd7a2c91afdcbac7dab02bea4b3509736",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x7f367af4ccd8e12812088b89c9f3d96843893f0f60af9a2a51074c9cae0d75c0",
+    "blockNumber": 11569686,
+    "from": "0x3F7C10cBbb1EA1046a80B738b9Eaf3217410c7F6"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 110000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 108403203372364076
+    },
+    "event": "Swap",
+    "logIndex": 68,
+    "transactionIndex": 53,
+    "transactionHash": "0xd0c4b4ced2c3f8b8df19454f131d7e112d0f83c5f8e18a2a2145566560131902",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x09e0ce901c894ecba093f3786bc719f39e4402a8b60d89a6542bea8d6d7ba69d",
+    "blockNumber": 11570359,
+    "from": "0xCeE9De97d5b938dDa98A0d0222000807045f97D9"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x8F7A4c7997959B16C690Bc5e3cbcAb10F8E4a34D",
+      "amount0In": 0,
+      "amount1In": 167321107951887821,
+      "amount0Out": 168764747343906217,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 180,
+    "transactionIndex": 122,
+    "transactionHash": "0x50f4d8d6c94cf89b19871472acda7704b176afb7563fe00789194ebaede992d4",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xeafc2703fba959cf2c3876a348a13d9237cb7e45c4adad6422cfdf0c09e1738a",
+    "blockNumber": 11574149,
+    "from": "0x8F7A4c7997959B16C690Bc5e3cbcAb10F8E4a34D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x960D228BB345Fe116ba4cba4761aab24A5fa7213",
+      "amount0In": 29439939049697990,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 29014811572579920
+    },
+    "event": "Swap",
+    "logIndex": 174,
+    "transactionIndex": 74,
+    "transactionHash": "0x9069093cd95b032cf66b1a89a7b5edc04a34f8675ba04264647b28ed0bfb94da",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x84d82afdaaadc85de60b3a360a92de1e25a688acce735e1a7db9b2a23aecb680",
+    "blockNumber": 11574261,
+    "from": "0x8F7A4c7997959B16C690Bc5e3cbcAb10F8E4a34D"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 14000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 13723490991027806087
+    },
+    "event": "Swap",
+    "logIndex": 288,
+    "transactionIndex": 168,
+    "transactionHash": "0x354f886f0cc07a41380956e3622c9095ad66f911b165fd319d4561d52f6a5a84",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x58701305b677255226be1173cc19715a8665d52a618da08abdc9a371ff307103",
+    "blockNumber": 11574292,
+    "from": "0x365B1c28E2f6C48aCB0cFa10Bca5B3a2706412eD"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 10000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9712332717121508636
+    },
+    "event": "Swap",
+    "logIndex": 170,
+    "transactionIndex": 91,
+    "transactionHash": "0x1bf79ab97b8f579d2b6b921a24b20145f3166cb80a83d505783bfe9fe37e3b3a",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xc04fe91b7021670a1cd18c5e389099979c940cc55c072e99b3e2e76fff10ff6b",
+    "blockNumber": 11574823,
+    "from": "0x35DcecEF97bf799399cF481D61f979B1D3c80414"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0xb0e83C2D71A991017e0116d58c5765Abc57384af",
+      "amount0In": 0,
+      "amount1In": 9000000000000000000,
+      "amount0Out": 9213842166526102991,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 192,
+    "transactionIndex": 75,
+    "transactionHash": "0xd1bd930205e89c6e91d0638f05b10d654139dba2dcdd421ca8f807c05caf29bb",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xcb063e39717c64e0cb05c7801884f52e4dae7e6accf70c1297779e111d3a69c1",
+    "blockNumber": 11574836,
+    "from": "0xb0e83C2D71A991017e0116d58c5765Abc57384af"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x436aB15705E0Ed23284512770748770EE4C16155",
+      "amount0In": 0,
+      "amount1In": 10000000000000000000,
+      "amount0Out": 10161382262022510077,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 91,
+    "transactionIndex": 48,
+    "transactionHash": "0x599b11a7bc4db96d16fd8ea7f5ed8a083d61cc1082db27b8468ba28f970845f7",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9e3d7a4b0e48537fb0d4fdc82fcb4362a635613dad9bb69bd32fbd0f006f5aec",
+    "blockNumber": 11574854,
+    "from": "0x4D953115678b15CE0B0396bCF95Db68003f86FB5"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 320000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 314225730162504250
+    },
+    "event": "Swap",
+    "logIndex": 30,
+    "transactionIndex": 24,
+    "transactionHash": "0xd5892bd73af1279f6ffd3a2f26a0895b5b16d77c0e39d3cbf25e9c9c7982f37b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9e5ed02db81686ef8b711f1189c9ff8790582702fdae759251e656dc6de9ca66",
+    "blockNumber": 11575209,
+    "from": "0x53c0fa070E310CE1690B3c83b2aB7F20D74D4922"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 886514567280116716,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 870112824754293291
+    },
+    "event": "Swap",
+    "logIndex": 200,
+    "transactionIndex": 85,
+    "transactionHash": "0x8d6487c7b1e9098f1a2a11e5a77a063c8a6a532182b4e6c28158c662d0ee007b",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x9340b4e8f9ab98abe9cad745084bfa003e531478c87178811a663f9c10b09123",
+    "blockNumber": 11576743,
+    "from": "0x2B53Db5d22D4884ca4D9583728F2A2e46ae416eb"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x421E4A2A857f7d7dA4fbD96D6268BAF8E5256eEc",
+      "amount0In": 0,
+      "amount1In": 500000000000000000,
+      "amount0Out": 506447880612034886,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 157,
+    "transactionIndex": 75,
+    "transactionHash": "0xf3053e673a3163afa443f02d9f5abbb7b4521c953aa0c2d4fb1967a2c231c081",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x582135f825cb233af7761b1026f21658254c4b00978ba1fecb77855c2d3da604",
+    "blockNumber": 11578844,
+    "from": "0x421E4A2A857f7d7dA4fbD96D6268BAF8E5256eEc"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x58d7888c037573F0DeBA123e1dc19f52fF77e6D3",
+      "amount0In": 0,
+      "amount1In": 1400000000000000000,
+      "amount0Out": 1417003405002489076,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 251,
+    "transactionIndex": 171,
+    "transactionHash": "0x4665a6f740fe15109f8fe16f2168217219569c4e67b3270a1f7d18443dc66313",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x65586619b9dc2a509cd8b80ffb1a2eec95d559bb82a8bbba1327a32043877558",
+    "blockNumber": 11581494,
+    "from": "0x58d7888c037573F0DeBA123e1dc19f52fF77e6D3"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "amount0In": 2000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 1963729701380411047
+    },
+    "event": "Swap",
+    "logIndex": 64,
+    "transactionIndex": 58,
+    "transactionHash": "0x6021234be21be3a505b2d86a957caab7ff46a9fd21e5a2d44c0ec672ca42ac7c",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x72d69e1d363e759b35af5ead3aee70b160310cdb63d9a565b75b5b8b89570b14",
+    "blockNumber": 11581766,
+    "from": "0xc62785b58724D744B843e479D76D47897E61Ca7e"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x6147805e1011417B93e5D693424a62A70d09d0E5",
+      "amount0In": 10000000000000000000,
+      "amount1In": 0,
+      "amount0Out": 0,
+      "amount1Out": 9773586082608485899
+    },
+    "event": "Swap",
+    "logIndex": 261,
+    "transactionIndex": 140,
+    "transactionHash": "0x9b69c82ae19074dce75a0d826af4b0c15c41415d3e3991163715cb887e8e6f56",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0x1044c5f47bfbd62e602c9fb157dbe3c3c3ce6aa35b78159c4e9ababc826af31f",
+    "blockNumber": 11583118,
+    "from": "0xbF9b607f740a0Ca85d8A0cec0921d51F48e154F8"
+  },
+  {
+    "args": {
+      "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "to": "0x372f9caF2850D56eA40bEdB93900fA389F629Ced",
+      "amount0In": 0,
+      "amount1In": 8000000000000000000,
+      "amount0Out": 8142106976345423516,
+      "amount1Out": 0
+    },
+    "event": "Swap",
+    "logIndex": 84,
+    "transactionIndex": 45,
+    "transactionHash": "0x5eb5dbc881195e2d5425fb45763fa4daa56451a3e6aaa51d855fb491760d4903",
+    "address": "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4",
+    "blockHash": "0xfb706c435b2a8a907b6062ed13a43b3b22ee79bba5b8779a11f84e14660e340a",
+    "blockNumber": 11583448,
+    "from": "0x372f9caF2850D56eA40bEdB93900fA389F629Ced"
+  }
+]
