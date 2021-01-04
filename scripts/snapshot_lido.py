@@ -24,7 +24,7 @@ ZERO_ADDRESS = "0x0000000000000000000000000000000000000000"
 distributed_supply = (4/1000)*1000000000*(10**18) #0.4% of total supply
 
 #exculde minter, uniswap and yveth vault
-exclude_holders = [ZERO_ADDRESS, "0x4028daac072e492d34a3afdbef0ba7e35d8b55c4", "0x15a2B3CfaFd696e1C783FE99eed168b78a3A371e"]
+exclude_holders = [ZERO_ADDRESS, "0x4028DAAC072e492d34a3Afdbef0ba7e35D8b55C4", "0x15a2B3CfaFd696e1C783FE99eed168b78a3A371e"]
 
 
 def main():
